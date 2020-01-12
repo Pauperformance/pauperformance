@@ -14,6 +14,14 @@ This repository contains up-to-date resources for [Pauperformance](https://githu
 **Author(s)**: [ShadowTemplate](https://github.com/ShadowTemplate)
 
 ---
+## Archetypes
+
+Index
+
+Missing one? Please help. Ref Conributing.
+
+
+---
 ## License
 
 This project is licensed under the GNU GPLv3 license.
@@ -23,3 +31,8 @@ Please refer to the [LICENSE.md](LICENSE.md) file for details.
 *This README.md complies with [this project template](
 https://github.com/ShadowTemplate/project-template). Feel free to adopt it
 and reuse it.*
+
+
+---
+## Contributors
+
