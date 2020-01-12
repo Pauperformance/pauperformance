@@ -6,6 +6,33 @@ This list is automatically generated...
 
 Visit the archetype page for deck lists, games, additional resources.
 
+
+<details>
+<summary>Aggro</summary>
+<br>
+
+* [Stompy](https://github.com/Pauperformance/archetype-stompy/releases) (`W`, `U`, `B`, `R`, `G`, `C`) [Alias1, Alias2, Alias3]
+<details>
+<summary>Description</summary>
+<br>
+This is the description.
+</details>
+
+* [Stompy](https://github.com/Pauperformance/archetype-stompy/releases) (`W`, `U`, `B`, `R`, `G`, `C`) [Alias1, Alias2, Alias3]
+<details>
+<summary>Description</summary>
+This is the description.
+</details>
+
+* [Stompy](https://github.com/Pauperformance/archetype-stompy/releases) (`W`, `U`, `B`, `R`, `G`, `C`) [Alias1, Alias2, Alias3]
+<details>
+<summary>Description</summary>
+
+This is the description.
+</details> 
+
+</details>
+
 ---
 ## Aggro
 
@@ -19,10 +46,15 @@ This is the description.
 * [Stompy](https://github.com/Pauperformance/archetype-stompy/releases) (`W`, `U`, `B`, `R`, `G`, `C`) [Alias1, Alias2, Alias3]
 <details>
 <summary>Description</summary>
-<br>
 This is the description.
 </details>
- 
+
+* [Stompy](https://github.com/Pauperformance/archetype-stompy/releases) (`W`, `U`, `B`, `R`, `G`, `C`) [Alias1, Alias2, Alias3]
+<details>
+<summary>Description</summary>
+
+This is the description.
+</details> 
 
 ---
 ## Midrange
