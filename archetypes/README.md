@@ -4,19 +4,19 @@
 
 This list is automatically generated...
 
-This repository contains up-to-date resources for , a shared journey to optimal [Pauper](https://magic.wizards.com/game-info/gameplay/formats/pauper), a [Magic: The Gathering](https://magic.wizards.com/) format.
+Visit the archetype page for deck lists, games, additional resources.
 
 ---
 ## Aggro
 
-* [Stompy](https://github.com/Pauperformance/stompy/releases) (Alias1, Alias2, Alias3)
+* [Stompy](https://github.com/Pauperformance/archetype-stompy/releases) (`W`, `U`, `B`, `R`, `G`, `C`) [Alias1, Alias2, Alias3]
 <details>
 <summary>Description</summary>
 <br>
 This is the description.
 </details>
 
-* [Stompy](https://github.com/Pauperformance/stompy/releases) (Alias1, Alias2, Alias3)
+* [Stompy](https://github.com/Pauperformance/archetype-stompy/releases) (`W`, `U`, `B`, `R`, `G`, `C`) [Alias1, Alias2, Alias3]
 <details>
 <summary>Description</summary>
 <br>
