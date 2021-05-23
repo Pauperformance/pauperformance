@@ -1,14 +1,14 @@
 # Stompy
 
-**Alias**: `MonoG Aggro`
+**Aliases**: `MonoG Aggro`
 
-**Dominant colour**: `G`
+**Dominant colours**: `G`
 
-**Type**: `Aggro`
+**Types**: `Aggro`
 
 **Description**: TODO.
 
-**Staple**:
+**Staples**:
 
 [<img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/2/2/22e3e874-a0ec-4459-b78d-abef6b9232b9.jpg?1602499798" width="300"/>](https://scryfall.com/card/dds/55/burning-tree-emissary?utm_source=api)
 [<img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/0/3085f5b1-d2e3-4dd4-8263-024b2b5da4b4.jpg?1562903981" width="300"/>](https://scryfall.com/card/pca/69/nest-invader?utm_source=api)
@@ -19,7 +19,7 @@
 [<img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/2/6203e3d4-8998-41d6-9f7e-b68af0f1f8b5.jpg?1562263070" width="300"/>](https://scryfall.com/card/mm2/168/vines-of-vastwood?utm_source=api)
 
 
-**Frequent card**:
+**Frequent cards**:
 
 [<img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/4/a/4a82b032-b1ba-456c-abab-c0f7430b0587.jpg?1617449039" width="300"/>](https://scryfall.com/card/stx/121/bayou-groff?utm_source=api)
 [<img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/e/d/edfbf056-c3b7-40e9-8e2b-333585978ac9.jpg?1592754684" width="300"/>](https://scryfall.com/card/ddm/49/river-boa?utm_source=api)
@@ -28,4 +28,4 @@
 [<img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/0/c/0c39aa40-ef5f-40f1-a6dd-fbce91172c50.jpg?1562897786" width="300"/>](https://scryfall.com/card/dka/134/young-wolf?utm_source=api)
 
 
-*Last updated: 2021-05-23, 12:40:47.*
+*Last updated: 2021-05-23, 12:42:54.*
