@@ -28,4 +28,9 @@
 [<img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/0/c/0c39aa40-ef5f-40f1-a6dd-fbce91172c50.jpg?1562897786" width="300"/>](https://scryfall.com/card/dka/134/young-wolf)
 
 
-*Last updated: 2021-05-23, 16:06:40.*
+**Decks**:
+
+[Stompy 669.001.Shika93](https://deckstats.net/decks/78813/2078446-stompy-669-001) (*2021-05-23, 16:39:07*)
+
+
+*Last updated: 2021-05-23, 17:21:33.*
