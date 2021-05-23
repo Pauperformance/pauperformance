@@ -13,7 +13,7 @@
 [![alt text][Rancor - Image]][Rancor - Scryfall]
 [![alt text][Nettle Sentinel - Image]][Nettle Sentinel - Scryfall]
 
-[<img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/8/a/8a4d8527-af29-408d-a3a3-6781db0cf439.jpg?1562438059" alt="CICCIO" width="200"/>][Rancor - Scryfall]
+[<img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/8/a/8a4d8527-af29-408d-a3a3-6781db0cf439.jpg?1562438059" alt="CICCIO" width="300"/>][Rancor - Scryfall]
 [<img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/3/f/3f290ed2-d1a8-4a90-a3a7-8240652dc109.jpg?1562434953" alt="CICCIO" width="50%" height="50%" />][Nettle Sentinel - Scryfall]
 <img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/8/a/8a4d8527-af29-408d-a3a3-6781db0cf439.jpg?1562438059" alt="CICCIO" width="200"/>
 
