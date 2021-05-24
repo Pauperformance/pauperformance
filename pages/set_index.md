@@ -688,7 +688,8 @@ Pauperformance decks use the **p12e code** as identified.
 | 673       | ha5           | Historic Anthology 5                            | 2021-05-27   |
 | 674       | mh2           | Modern Horizons 2                               | 2021-06-18   |
 | 675       | pwp21         | Wizards Play Network 2021                       | 2021-06-18   |
-| 676       | afr           | Adventures in the Forgotten Realms              | 2021-07-23   |
+| 676       | rmh1          | Modern Horizons 1 Timeshifts                    | 2021-06-18   |
+| 677       | afr           | Adventures in the Forgotten Realms              | 2021-07-23   |
 
 
-*Last updated: 2021-05-22, 18:22:09.*
+*Last updated: 2021-05-24, 09:51:33.*
