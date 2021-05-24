@@ -2,7 +2,7 @@
 
 **Aliases**: `MonoG Aggro`
 
-**Dominant mana**: <img src="../resources/images/mana/G.png" width="25"/>
+**Dominant mana**: <img src="https://github.com/Pauperformance/pauperformance/blob/master/resources/images/mana/G.png" width="25"/>
 
 **Types**: `Aggro`
 
