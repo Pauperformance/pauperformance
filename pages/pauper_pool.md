@@ -8,15 +8,15 @@ These cards can be new cards or downshifts, while reprints are excluded.
 This page should be useful for Pauper players that haven't followed the latest releases and would like to be informed on what has recently changed.
 You can click on each set to get a visual preview of the cards.
 
-Further information about reference numbers used by Pauperformance (p12e) to uniquely identify Magic sets can be found in the [Set Index page]().
+Further information about reference numbers used by Pauperformance (p12e) to uniquely identify Magic sets can be found in the [Set Index page](pages/set_index.md).
 
 The total number of cards in the Pauper pool is: 104.
 
 ## Limited Edition Alpha (lea)
-*p12e_code: 1 | release: 1993-08-05 | new cards added: 78*
+*p12e_code: 1 | release: 1993-08-05
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click to see 78 new card(s)!</summary>
 
 [Benalish Hero](https://scryfall.com/card/lea/4/benalish-hero?utm_source=api)  
 [Blue Elemental Blast](https://scryfall.com/card/lea/49/blue-elemental-blast?utm_source=api)  
@@ -99,12 +99,19 @@ The total number of cards in the Pauper pool is: 104.
 </details>
 
 ## Limited Edition Beta (leb)
-*p12e_code: 2 | release: 1993-10-04 | new cards added: 1*
+*p12e_code: 2 | release: 1993-10-04
+
+<details>
+  <summary>Click to see 1 new card(s)!</summary>
 
 [Circle of Protection: Black](https://scryfall.com/card/leb/10/circle-of-protection:-black?utm_source=api)  
+</details>
 
 ## Arabian Nights (arn)
-*p12e_code: 6 | release: 1993-12-17 | new cards added: 25*
+*p12e_code: 6 | release: 1993-12-17
+
+<details>
+  <summary>Click to see 25 new card(s)!</summary>
 
 [Army of Allah](https://scryfall.com/card/arn/2/army-of-allah?utm_source=api)  
 [Bird Maiden](https://scryfall.com/card/arn/37/bird-maiden?utm_source=api)  
@@ -131,7 +138,8 @@ The total number of cards in the Pauper pool is: 104.
 [Unstable Mutation](https://scryfall.com/card/arn/22/unstable-mutation?utm_source=api)  
 [War Elephant](https://scryfall.com/card/arn/11/war-elephant?utm_source=api)  
 [Wyluli Wolf](https://scryfall.com/card/arn/55/wyluli-wolf?utm_source=api)  
+</details>
 
 
 
-*Last updated: 2021-05-26, 18:56:27.*
+*Last updated: 2021-05-26, 19:08:25.*
