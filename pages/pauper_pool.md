@@ -8,7 +8,7 @@ These cards can be new cards or downshifts, while reprints are excluded.
 This page should be useful for Pauper players that haven't followed the latest releases and would like to be informed on what has recently changed.
 You can click on each set to get a visual preview of the cards.
 
-Further information about reference numbers used by Pauperformance (p12e) to uniquely identify Magic sets can be found in the [Set Index page](pages/set_index.md).
+Further information about reference numbers used by Pauperformance (p12e) to uniquely identify Magic sets can be found in the [Set Index page](set_index.md).
 
 The total number of cards in the Pauper pool is: 104.
 
@@ -142,4 +142,4 @@ The total number of cards in the Pauper pool is: 104.
 
 
 
-*Last updated: 2021-05-26, 19:08:25.*
+*Last updated: 2021-05-26, 19:09:41.*
