@@ -15,6 +15,9 @@ The total number of cards in the Pauper pool is: 104.
 ## Limited Edition Alpha (lea)
 *p12e_code: 1 | release: 1993-08-05 | new cards added: 78*
 
+<details>
+  <summary>Click to expand!</summary>
+
 [Benalish Hero](https://scryfall.com/card/lea/4/benalish-hero?utm_source=api)  
 [Blue Elemental Blast](https://scryfall.com/card/lea/49/blue-elemental-blast?utm_source=api)  
 [Circle of Protection: Blue](https://scryfall.com/card/lea/10/circle-of-protection:-blue?utm_source=api)  
@@ -93,6 +96,7 @@ The total number of cards in the Pauper pool is: 104.
 [War Mammoth](https://scryfall.com/card/lea/227/war-mammoth?utm_source=api)  
 [Weakness](https://scryfall.com/card/lea/134/weakness?utm_source=api)  
 [Wild Growth](https://scryfall.com/card/lea/229/wild-growth?utm_source=api)  
+</details>
 
 ## Limited Edition Beta (leb)
 *p12e_code: 2 | release: 1993-10-04 | new cards added: 1*
