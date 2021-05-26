@@ -12,8 +12,17 @@ Further information about reference numbers used by Pauperformance (p12e) to uni
 
 The total number of cards in the Pauper pool is: 104.
 
+---
+Table of Contents
+=================
+* [Limited Edition Alpha](#limited-edition-alpha-lea) (*release: 1993-08-05 | p12e_code: 1*)
+* [Limited Edition Beta](#limited-edition-beta-leb) (*release: 1993-10-04 | p12e_code: 2*)
+* [Arabian Nights](#arabian-nights-arn) (*release: 1993-12-17 | p12e_code: 6*)
+
+---
+
 ## Limited Edition Alpha (lea)
-*p12e_code: 1 | release: 1993-08-05
+*release: 1993-08-05 | p12e_code: 1*
 
 <details>
   <summary>Click to see 78 new card(s)!</summary>
@@ -99,7 +108,7 @@ The total number of cards in the Pauper pool is: 104.
 </details>
 
 ## Limited Edition Beta (leb)
-*p12e_code: 2 | release: 1993-10-04
+*release: 1993-10-04 | p12e_code: 2*
 
 <details>
   <summary>Click to see 1 new card(s)!</summary>
@@ -108,7 +117,7 @@ The total number of cards in the Pauper pool is: 104.
 </details>
 
 ## Arabian Nights (arn)
-*p12e_code: 6 | release: 1993-12-17
+*release: 1993-12-17 | p12e_code: 6*
 
 <details>
   <summary>Click to see 25 new card(s)!</summary>
@@ -142,4 +151,4 @@ The total number of cards in the Pauper pool is: 104.
 
 
 
-*Last updated: 2021-05-26, 19:09:41.*
+*Last updated: 2021-05-26, 19:30:24.*
