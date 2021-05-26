@@ -66,7 +66,7 @@ Table of Contents
 * [Saviors of Kamigawa](#saviors-of-kamigawa-sok) (*release: 2005-06-03 | p12e_code: 154*)
 * [Ninth Edition](#ninth-edition-9ed) (*release: 2005-07-29 | p12e_code: 155*)
 * [Salvat 2005](#salvat-2005-psal) (*release: 2005-08-22 | p12e_code: 157*)
-* [Ravnica: City of Guilds](#ravnica:-city-of-guilds-rav) (*release: 2005-10-07 | p12e_code: 159*)
+* [Ravnica: City of Guilds](#ravnica-city-of-guilds-rav) (*release: 2005-10-07 | p12e_code: 159*)
 * [Guildpact](#guildpact-gpt) (*release: 2006-02-03 | p12e_code: 169*)
 * [Dissension](#dissension-dis) (*release: 2006-05-05 | p12e_code: 172*)
 * [Coldsnap](#coldsnap-csp) (*release: 2006-07-21 | p12e_code: 174*)
@@ -93,7 +93,7 @@ Table of Contents
 * [Rise of the Eldrazi](#rise-of-the-eldrazi-roe) (*release: 2010-04-23 | p12e_code: 268*)
 * [Archenemy](#archenemy-arc) (*release: 2010-06-18 | p12e_code: 271*)
 * [Magic 2011](#magic-2011-m11) (*release: 2010-07-16 | p12e_code: 275*)
-* [Duel Decks: Elspeth vs. Tezzeret](#duel-decks:-elspeth-vs.-tezzeret-ddf) (*release: 2010-09-03 | p12e_code: 278*)
+* [Duel Decks: Elspeth vs. Tezzeret](#duel-decks-elspeth-vs-tezzeret-ddf) (*release: 2010-09-03 | p12e_code: 278*)
 * [Scars of Mirrodin](#scars-of-mirrodin-som) (*release: 2010-10-01 | p12e_code: 281*)
 * [Masters Edition IV](#masters-edition-iv-me4) (*release: 2011-01-10 | p12e_code: 293*)
 * [Mirrodin Besieged](#mirrodin-besieged-mbs) (*release: 2011-02-04 | p12e_code: 295*)
@@ -104,13 +104,13 @@ Table of Contents
 * [Avacyn Restored](#avacyn-restored-avr) (*release: 2012-05-04 | p12e_code: 329*)
 * [Planechase 2012](#planechase-2012-pc2) (*release: 2012-06-01 | p12e_code: 332*)
 * [Magic 2013](#magic-2013-m13) (*release: 2012-07-13 | p12e_code: 334*)
-* [Duel Decks: Izzet vs. Golgari](#duel-decks:-izzet-vs.-golgari-ddj) (*release: 2012-09-07 | p12e_code: 337*)
+* [Duel Decks: Izzet vs. Golgari](#duel-decks-izzet-vs-golgari-ddj) (*release: 2012-09-07 | p12e_code: 337*)
 * [Return to Ravnica](#return-to-ravnica-rtr) (*release: 2012-10-05 | p12e_code: 340*)
 * [Gatecrash](#gatecrash-gtc) (*release: 2013-02-01 | p12e_code: 350*)
 * [Dragon's Maze](#dragon's-maze-dgm) (*release: 2013-05-03 | p12e_code: 356*)
 * [Modern Masters](#modern-masters-mma) (*release: 2013-06-07 | p12e_code: 358*)
 * [Magic 2014](#magic-2014-m14) (*release: 2013-07-19 | p12e_code: 362*)
-* [Duel Decks: Heroes vs. Monsters](#duel-decks:-heroes-vs.-monsters-ddl) (*release: 2013-09-06 | p12e_code: 365*)
+* [Duel Decks: Heroes vs. Monsters](#duel-decks-heroes-vs-monsters-ddl) (*release: 2013-09-06 | p12e_code: 365*)
 * [Theros](#theros-ths) (*release: 2013-09-27 | p12e_code: 369*)
 * [Commander 2013](#commander-2013-c13) (*release: 2013-11-01 | p12e_code: 372*)
 * [Born of the Gods](#born-of-the-gods-bng) (*release: 2014-02-07 | p12e_code: 380*)
@@ -125,14 +125,14 @@ Table of Contents
 * [Tempest Remastered](#tempest-remastered-tpr) (*release: 2015-05-06 | p12e_code: 432*)
 * [Modern Masters 2015](#modern-masters-2015-mm2) (*release: 2015-05-22 | p12e_code: 433*)
 * [Magic Origins](#magic-origins-ori) (*release: 2015-07-17 | p12e_code: 437*)
-* [Duel Decks: Zendikar vs. Eldrazi](#duel-decks:-zendikar-vs.-eldrazi-ddp) (*release: 2015-08-28 | p12e_code: 441*)
+* [Duel Decks: Zendikar vs. Eldrazi](#duel-decks-zendikar-vs-eldrazi-ddp) (*release: 2015-08-28 | p12e_code: 441*)
 * [Battle for Zendikar](#battle-for-zendikar-bfz) (*release: 2015-10-02 | p12e_code: 442*)
 * [Commander 2015](#commander-2015-c15) (*release: 2015-11-13 | p12e_code: 447*)
 * [Oath of the Gatewatch](#oath-of-the-gatewatch-ogw) (*release: 2016-01-22 | p12e_code: 454*)
 * [Shadows over Innistrad](#shadows-over-innistrad-soi) (*release: 2016-04-08 | p12e_code: 459*)
 * [Eternal Masters](#eternal-masters-ema) (*release: 2016-06-10 | p12e_code: 462*)
 * [Eldritch Moon](#eldritch-moon-emn) (*release: 2016-07-22 | p12e_code: 464*)
-* [Conspiracy: Take the Crown](#conspiracy:-take-the-crown-cn2) (*release: 2016-08-26 | p12e_code: 468*)
+* [Conspiracy: Take the Crown](#conspiracy-take-the-crown-cn2) (*release: 2016-08-26 | p12e_code: 468*)
 * [Kaladesh](#kaladesh-kld) (*release: 2016-09-30 | p12e_code: 471*)
 * [Treasure Chest](#treasure-chest-pz2) (*release: 2016-11-16 | p12e_code: 479*)
 * [Aether Revolt](#aether-revolt-aer) (*release: 2017-01-20 | p12e_code: 485*)
@@ -157,7 +157,7 @@ Table of Contents
 * [Throne of Eldraine](#throne-of-eldraine-eld) (*release: 2019-10-04 | p12e_code: 600*)
 * [Theros Beyond Death](#theros-beyond-death-thb) (*release: 2020-01-24 | p12e_code: 612*)
 * [Commander 2020](#commander-2020-c20) (*release: 2020-04-17 | p12e_code: 618*)
-* [Ikoria: Lair of Behemoths](#ikoria:-lair-of-behemoths-iko) (*release: 2020-04-24 | p12e_code: 622*)
+* [Ikoria: Lair of Behemoths](#ikoria-lair-of-behemoths-iko) (*release: 2020-04-24 | p12e_code: 622*)
 * [Core Set 2021](#core-set-2021-m21) (*release: 2020-07-03 | p12e_code: 630*)
 * [Jumpstart](#jumpstart-jmp) (*release: 2020-07-17 | p12e_code: 634*)
 * [Double Masters](#double-masters-2xm) (*release: 2020-08-07 | p12e_code: 636*)
@@ -165,7 +165,7 @@ Table of Contents
 * [Commander Legends](#commander-legends-cmr) (*release: 2020-11-20 | p12e_code: 651*)
 * [Kaldheim](#kaldheim-khm) (*release: 2021-02-05 | p12e_code: 658*)
 * [Commander 2021](#commander-2021-c21) (*release: 2021-04-23 | p12e_code: 666*)
-* [Strixhaven: School of Mages](#strixhaven:-school-of-mages-stx) (*release: 2021-04-23 | p12e_code: 669*)
+* [Strixhaven: School of Mages](#strixhaven-school-of-mages-stx) (*release: 2021-04-23 | p12e_code: 669*)
 
 ---
 
@@ -173,7 +173,7 @@ Table of Contents
 *release: 1993-08-05 | p12e_code: 1*
 
 <details>
-  <summary>Click to see 78 new card(s)</summary>
+  <summary>Click to see 78 new cards</summary>
 
 [Benalish Hero](https://scryfall.com/card/lea/4/benalish-hero?utm_source=api)  
 [Blue Elemental Blast](https://scryfall.com/card/lea/49/blue-elemental-blast?utm_source=api)  
@@ -259,7 +259,7 @@ Table of Contents
 *release: 1993-10-04 | p12e_code: 2*
 
 <details>
-  <summary>Click to see 1 new card(s)</summary>
+  <summary>Click to see 1 new cards</summary>
 
 [Circle of Protection: Black](https://scryfall.com/card/leb/10/circle-of-protection:-black?utm_source=api)  
 </details>
@@ -268,7 +268,7 @@ Table of Contents
 *release: 1993-12-17 | p12e_code: 6*
 
 <details>
-  <summary>Click to see 25 new card(s)</summary>
+  <summary>Click to see 25 new cards</summary>
 
 [Army of Allah](https://scryfall.com/card/arn/2/army-of-allah?utm_source=api)  
 [Bird Maiden](https://scryfall.com/card/arn/37/bird-maiden?utm_source=api)  
@@ -301,7 +301,7 @@ Table of Contents
 *release: 1994-03-04 | p12e_code: 7*
 
 <details>
-  <summary>Click to see 28 new card(s)</summary>
+  <summary>Click to see 28 new cards</summary>
 
 [Amulet of Kroog](https://scryfall.com/card/atq/36/amulet-of-kroog?utm_source=api)  
 [Argivian Blacksmith](https://scryfall.com/card/atq/2/argivian-blacksmith?utm_source=api)  
@@ -337,7 +337,7 @@ Table of Contents
 *release: 1994-06-01 | p12e_code: 10*
 
 <details>
-  <summary>Click to see 75 new card(s)</summary>
+  <summary>Click to see 75 new cards</summary>
 
 [Active Volcano](https://scryfall.com/card/leg/130/active-volcano?utm_source=api)  
 [Aisling Leprechaun](https://scryfall.com/card/leg/173/aisling-leprechaun?utm_source=api)  
@@ -420,7 +420,7 @@ Table of Contents
 *release: 1994-08-01 | p12e_code: 13*
 
 <details>
-  <summary>Click to see 40 new card(s)</summary>
+  <summary>Click to see 40 new cards</summary>
 
 [Ashes to Ashes](https://scryfall.com/card/drk/39/ashes-to-ashes?utm_source=api)  
 [Bog Imp](https://scryfall.com/card/drk/41/bog-imp?utm_source=api)  
@@ -468,7 +468,7 @@ Table of Contents
 *release: 1994-11-01 | p12e_code: 15*
 
 <details>
-  <summary>Click to see 34 new card(s)</summary>
+  <summary>Click to see 34 new cards</summary>
 
 [Armor Thrull](https://scryfall.com/card/fem/33a/armor-thrull?utm_source=api)  
 [Basal Thrull](https://scryfall.com/card/fem/34a/basal-thrull?utm_source=api)  
@@ -510,7 +510,7 @@ Table of Contents
 *release: 1995-01-01 | p12e_code: 17*
 
 <details>
-  <summary>Click to see 11 new card(s)</summary>
+  <summary>Click to see 11 new cards</summary>
 
 [Chandra's Outrage](https://scryfall.com/card/pmei/18/ja/chandras-outrage?utm_source=api)  
 [Jamuraan Lion](https://scryfall.com/card/pmei/10*/de/jamuraan-lion?utm_source=api)  
@@ -529,7 +529,7 @@ Table of Contents
 *release: 1995-04-01 | p12e_code: 18*
 
 <details>
-  <summary>Click to see 9 new card(s)</summary>
+  <summary>Click to see 9 new cards</summary>
 
 [Apprentice Wizard](https://scryfall.com/card/4bb/61/es/aprendiz-de-brujo?utm_source=api)  
 [Blood Lust](https://scryfall.com/card/4bb/178/es/ansia-de-sangre?utm_source=api)  
@@ -546,7 +546,7 @@ Table of Contents
 *release: 1995-06-03 | p12e_code: 20*
 
 <details>
-  <summary>Click to see 110 new card(s)</summary>
+  <summary>Click to see 110 new cards</summary>
 
 [Adarkar Unicorn](https://scryfall.com/card/ice/1/adarkar-unicorn?utm_source=api)  
 [Arctic Foxes](https://scryfall.com/card/ice/2/arctic-foxes?utm_source=api)  
@@ -664,7 +664,7 @@ Table of Contents
 *release: 1995-07-01 | p12e_code: 21*
 
 <details>
-  <summary>Click to see 9 new card(s)</summary>
+  <summary>Click to see 9 new cards</summary>
 
 [Ashnod's Altar](https://scryfall.com/card/chr/92/ashnods-altar?utm_source=api)  
 [Ashnod's Transmogrant](https://scryfall.com/card/chr/93/ashnods-transmogrant?utm_source=api)  
@@ -681,7 +681,7 @@ Table of Contents
 *release: 1995-10-01 | p12e_code: 24*
 
 <details>
-  <summary>Click to see 46 new card(s)</summary>
+  <summary>Click to see 46 new cards</summary>
 
 [Abbey Matron](https://scryfall.com/card/hml/2a/abbey-matron?utm_source=api)  
 [Aliban's Tower](https://scryfall.com/card/hml/61a/alibans-tower?utm_source=api)  
@@ -735,7 +735,7 @@ Table of Contents
 *release: 1996-06-10 | p12e_code: 26*
 
 <details>
-  <summary>Click to see 55 new card(s)</summary>
+  <summary>Click to see 55 new cards</summary>
 
 [Aesthir Glider](https://scryfall.com/card/all/116a/aesthir-glider?utm_source=api)  
 [Agent of Stromgald](https://scryfall.com/card/all/64a/agent-of-stromgald?utm_source=api)  
@@ -798,7 +798,7 @@ Table of Contents
 *release: 1996-10-08 | p12e_code: 31*
 
 <details>
-  <summary>Click to see 91 new card(s)</summary>
+  <summary>Click to see 91 new cards</summary>
 
 [Agility](https://scryfall.com/card/mir/154/agility?utm_source=api)  
 [Alarum](https://scryfall.com/card/mir/2/alarum?utm_source=api)  
@@ -897,7 +897,7 @@ Table of Contents
 *release: 1997-02-03 | p12e_code: 34*
 
 <details>
-  <summary>Click to see 60 new card(s)</summary>
+  <summary>Click to see 60 new cards</summary>
 
 [Betrayal](https://scryfall.com/card/vis/26/betrayal?utm_source=api)  
 [Breezekeeper](https://scryfall.com/card/vis/27/breezekeeper?utm_source=api)  
@@ -965,7 +965,7 @@ Table of Contents
 *release: 1997-03-24 | p12e_code: 35*
 
 <details>
-  <summary>Click to see 7 new card(s)</summary>
+  <summary>Click to see 7 new cards</summary>
 
 [Death Speakers](https://scryfall.com/card/5ed/24/death-speakers?utm_source=api)  
 [Hipparion](https://scryfall.com/card/5ed/34/hipparion?utm_source=api)  
@@ -980,7 +980,7 @@ Table of Contents
 *release: 1997-05-01 | p12e_code: 38*
 
 <details>
-  <summary>Click to see 68 new card(s)</summary>
+  <summary>Click to see 68 new cards</summary>
 
 [Angelic Blessing](https://scryfall.com/card/por/2/angelic-blessing?utm_source=api)  
 [Armored Pegasus](https://scryfall.com/card/por/6/armored-pegasus?utm_source=api)  
@@ -1056,7 +1056,7 @@ Table of Contents
 *release: 1997-06-09 | p12e_code: 41*
 
 <details>
-  <summary>Click to see 61 new card(s)</summary>
+  <summary>Click to see 61 new cards</summary>
 
 [Abjure](https://scryfall.com/card/wth/31/abjure?utm_source=api)  
 [Abyssal Gatekeeper](https://scryfall.com/card/wth/59/abyssal-gatekeeper?utm_source=api)  
@@ -1125,7 +1125,7 @@ Table of Contents
 *release: 1997-10-14 | p12e_code: 44*
 
 <details>
-  <summary>Click to see 85 new card(s)</summary>
+  <summary>Click to see 85 new cards</summary>
 
 [Advance Scout](https://scryfall.com/card/tmp/1/advance-scout?utm_source=api)  
 [Aftershock](https://scryfall.com/card/tmp/160/aftershock?utm_source=api)  
@@ -1218,7 +1218,7 @@ Table of Contents
 *release: 1998-03-02 | p12e_code: 47*
 
 <details>
-  <summary>Click to see 51 new card(s)</summary>
+  <summary>Click to see 51 new cards</summary>
 
 [Bandage](https://scryfall.com/card/sth/1/bandage?utm_source=api)  
 [Brush with Death](https://scryfall.com/card/sth/52/brush-with-death?utm_source=api)  
@@ -1277,7 +1277,7 @@ Table of Contents
 *release: 1998-06-15 | p12e_code: 48*
 
 <details>
-  <summary>Click to see 53 new card(s)</summary>
+  <summary>Click to see 53 new cards</summary>
 
 [Aether Tide](https://scryfall.com/card/exo/27/aether-tide?utm_source=api)  
 [Allay](https://scryfall.com/card/exo/1/allay?utm_source=api)  
@@ -1338,7 +1338,7 @@ Table of Contents
 *release: 1998-06-24 | p12e_code: 50*
 
 <details>
-  <summary>Click to see 50 new card(s)</summary>
+  <summary>Click to see 50 new cards</summary>
 
 [Alaborn Grenadier](https://scryfall.com/card/p02/2/alaborn-grenadier?utm_source=api)  
 [Alaborn Musketeer](https://scryfall.com/card/p02/3/alaborn-musketeer?utm_source=api)  
@@ -1396,7 +1396,7 @@ Table of Contents
 *release: 1998-10-12 | p12e_code: 56*
 
 <details>
-  <summary>Click to see 100 new card(s)</summary>
+  <summary>Click to see 100 new cards</summary>
 
 [Acridian](https://scryfall.com/card/usg/230/acridian?utm_source=api)  
 [Angelic Page](https://scryfall.com/card/usg/4/angelic-page?utm_source=api)  
@@ -1504,7 +1504,7 @@ Table of Contents
 *release: 1998-11-01 | p12e_code: 57*
 
 <details>
-  <summary>Click to see 1 new card(s)</summary>
+  <summary>Click to see 1 new cards</summary>
 
 [Goblin Balloon Brigade](https://scryfall.com/card/ath/30/goblin-balloon-brigade?utm_source=api)  
 </details>
@@ -1513,7 +1513,7 @@ Table of Contents
 *release: 1999-02-15 | p12e_code: 61*
 
 <details>
-  <summary>Click to see 52 new card(s)</summary>
+  <summary>Click to see 52 new cards</summary>
 
 [About Face](https://scryfall.com/card/ulg/73/about-face?utm_source=api)  
 [Angelic Curator](https://scryfall.com/card/ulg/1/angelic-curator?utm_source=api)  
@@ -1573,7 +1573,7 @@ Table of Contents
 *release: 1999-04-21 | p12e_code: 62*
 
 <details>
-  <summary>Click to see 2 new card(s)</summary>
+  <summary>Click to see 2 new cards</summary>
 
 [Flame Spirit](https://scryfall.com/card/6ed/179/flame-spirit?utm_source=api)  
 [Painful Memories](https://scryfall.com/card/6ed/147/painful-memories?utm_source=api)  
@@ -1583,7 +1583,7 @@ Table of Contents
 *release: 1999-06-07 | p12e_code: 64*
 
 <details>
-  <summary>Click to see 53 new card(s)</summary>
+  <summary>Click to see 53 new cards</summary>
 
 [Bubbling Beebles](https://scryfall.com/card/uds/29/bubbling-beebles?utm_source=api)  
 [Bubbling Muck](https://scryfall.com/card/uds/54/bubbling-muck?utm_source=api)  
@@ -1644,7 +1644,7 @@ Table of Contents
 *release: 1999-07-01 | p12e_code: 66*
 
 <details>
-  <summary>Click to see 10 new card(s)</summary>
+  <summary>Click to see 10 new cards</summary>
 
 [Devout Monk](https://scryfall.com/card/s99/14/devout-monk?utm_source=api)  
 [Eager Cadet](https://scryfall.com/card/s99/15/eager-cadet?utm_source=api)  
@@ -1662,7 +1662,7 @@ Table of Contents
 *release: 1999-07-06 | p12e_code: 67*
 
 <details>
-  <summary>Click to see 50 new card(s)</summary>
+  <summary>Click to see 50 new cards</summary>
 
 [Barbarian Horde](https://scryfall.com/card/ptk/101/barbarian-horde?utm_source=api)  
 [Broken Dam](https://scryfall.com/card/ptk/37/broken-dam?utm_source=api)  
@@ -1720,7 +1720,7 @@ Table of Contents
 *release: 1999-10-04 | p12e_code: 72*
 
 <details>
-  <summary>Click to see 97 new card(s)</summary>
+  <summary>Click to see 97 new cards</summary>
 
 [Alabaster Wall](https://scryfall.com/card/mmq/2/alabaster-wall?utm_source=api)  
 [Alley Grifters](https://scryfall.com/card/mmq/115/alley-grifters?utm_source=api)  
@@ -1825,7 +1825,7 @@ Table of Contents
 *release: 2000-02-14 | p12e_code: 80*
 
 <details>
-  <summary>Click to see 53 new card(s)</summary>
+  <summary>Click to see 53 new cards</summary>
 
 [Accumulated Knowledge](https://scryfall.com/card/nem/26/accumulated-knowledge?utm_source=api)  
 [Air Bladder](https://scryfall.com/card/nem/28/air-bladder?utm_source=api)  
@@ -1886,7 +1886,7 @@ Table of Contents
 *release: 2000-06-05 | p12e_code: 83*
 
 <details>
-  <summary>Click to see 55 new card(s)</summary>
+  <summary>Click to see 55 new cards</summary>
 
 [Agent of Shauku](https://scryfall.com/card/pcy/55/agent-of-shauku?utm_source=api)  
 [Alexi's Cloak](https://scryfall.com/card/pcy/29/alexis-cloak?utm_source=api)  
@@ -1949,7 +1949,7 @@ Table of Contents
 *release: 2000-10-02 | p12e_code: 87*
 
 <details>
-  <summary>Click to see 97 new card(s)</summary>
+  <summary>Click to see 97 new cards</summary>
 
 [Aggressive Urge](https://scryfall.com/card/inv/181/aggressive-urge?utm_source=api)  
 [Agonizing Demise](https://scryfall.com/card/inv/92/agonizing-demise?utm_source=api)  
@@ -2054,7 +2054,7 @@ Table of Contents
 *release: 2001-02-05 | p12e_code: 93*
 
 <details>
-  <summary>Click to see 54 new card(s)</summary>
+  <summary>Click to see 54 new cards</summary>
 
 [Amphibious Kavu](https://scryfall.com/card/pls/78/amphibious-kavu?utm_source=api)  
 [Arctic Merfolk](https://scryfall.com/card/pls/21/arctic-merfolk?utm_source=api)  
@@ -2116,7 +2116,7 @@ Table of Contents
 *release: 2001-06-04 | p12e_code: 96*
 
 <details>
-  <summary>Click to see 54 new card(s)</summary>
+  <summary>Click to see 54 new cards</summary>
 
 [Ana Disciple](https://scryfall.com/card/apc/73/ana-disciple?utm_source=api)  
 [Angelfire Crusader](https://scryfall.com/card/apc/1/angelfire-crusader?utm_source=api)  
@@ -2178,7 +2178,7 @@ Table of Contents
 *release: 2001-10-01 | p12e_code: 100*
 
 <details>
-  <summary>Click to see 107 new card(s)</summary>
+  <summary>Click to see 107 new cards</summary>
 
 [Abandoned Outpost](https://scryfall.com/card/ody/312/abandoned-outpost?utm_source=api)  
 [Aboshan's Desire](https://scryfall.com/card/ody/59/aboshans-desire?utm_source=api)  
@@ -2293,7 +2293,7 @@ Table of Contents
 *release: 2002-02-04 | p12e_code: 108*
 
 <details>
-  <summary>Click to see 55 new card(s)</summary>
+  <summary>Click to see 55 new cards</summary>
 
 [Accelerate](https://scryfall.com/card/tor/90/accelerate?utm_source=api)  
 [Acorn Harvest](https://scryfall.com/card/tor/118/acorn-harvest?utm_source=api)  
@@ -2356,7 +2356,7 @@ Table of Contents
 *release: 2002-05-27 | p12e_code: 109*
 
 <details>
-  <summary>Click to see 54 new card(s)</summary>
+  <summary>Click to see 54 new cards</summary>
 
 [Anurid Barkripper](https://scryfall.com/card/jud/104/anurid-barkripper?utm_source=api)  
 [Arcane Teachings](https://scryfall.com/card/jud/78/arcane-teachings?utm_source=api)  
@@ -2418,7 +2418,7 @@ Table of Contents
 *release: 2002-06-24 | p12e_code: 111*
 
 <details>
-  <summary>Click to see 115 new card(s)</summary>
+  <summary>Click to see 115 new cards</summary>
 
 [Ainok Tracker](https://scryfall.com/card/prm/55779/ainok-tracker?utm_source=api)  
 [Ancient Grudge](https://scryfall.com/card/prm/43590/ancient-grudge?utm_source=api)  
@@ -2541,7 +2541,7 @@ Table of Contents
 *release: 2002-10-07 | p12e_code: 114*
 
 <details>
-  <summary>Click to see 100 new card(s)</summary>
+  <summary>Click to see 100 new cards</summary>
 
 [Accursed Centaur](https://scryfall.com/card/ons/123/accursed-centaur?utm_source=api)  
 [Airborne Aid](https://scryfall.com/card/ons/62/airborne-aid?utm_source=api)  
@@ -2649,7 +2649,7 @@ Table of Contents
 *release: 2003-02-03 | p12e_code: 122*
 
 <details>
-  <summary>Click to see 54 new card(s)</summary>
+  <summary>Click to see 54 new cards</summary>
 
 [Aven Envoy](https://scryfall.com/card/lgn/30/aven-envoy?utm_source=api)  
 [Aven Redeemer](https://scryfall.com/card/lgn/3/aven-redeemer?utm_source=api)  
@@ -2711,7 +2711,7 @@ Table of Contents
 *release: 2003-05-26 | p12e_code: 126*
 
 <details>
-  <summary>Click to see 52 new card(s)</summary>
+  <summary>Click to see 52 new cards</summary>
 
 [Accelerated Mutation](https://scryfall.com/card/scg/109/accelerated-mutation?utm_source=api)  
 [Astral Steel](https://scryfall.com/card/scg/2/astral-steel?utm_source=api)  
@@ -2771,7 +2771,7 @@ Table of Contents
 *release: 2003-07-28 | p12e_code: 127*
 
 <details>
-  <summary>Click to see 2 new card(s)</summary>
+  <summary>Click to see 2 new cards</summary>
 
 [Giant Badger](https://scryfall.com/card/8ed/253/giant-badger?utm_source=api)  
 [Redeem](https://scryfall.com/card/8ed/37/redeem?utm_source=api)  
@@ -2781,7 +2781,7 @@ Table of Contents
 *release: 2003-10-02 | p12e_code: 130*
 
 <details>
-  <summary>Click to see 103 new card(s)</summary>
+  <summary>Click to see 103 new cards</summary>
 
 [Aether Spellbomb](https://scryfall.com/card/mrd/141/aether-spellbomb?utm_source=api)  
 [Alpha Myr](https://scryfall.com/card/mrd/142/alpha-myr?utm_source=api)  
@@ -2892,7 +2892,7 @@ Table of Contents
 *release: 2004-02-06 | p12e_code: 135*
 
 <details>
-  <summary>Click to see 52 new card(s)</summary>
+  <summary>Click to see 52 new cards</summary>
 
 [Arcane Spyglass](https://scryfall.com/card/dst/93/arcane-spyglass?utm_source=api)  
 [Arcbound Bruiser](https://scryfall.com/card/dst/94/arcbound-bruiser?utm_source=api)  
@@ -2952,7 +2952,7 @@ Table of Contents
 *release: 2004-06-04 | p12e_code: 136*
 
 <details>
-  <summary>Click to see 53 new card(s)</summary>
+  <summary>Click to see 53 new cards</summary>
 
 [Abuna's Chant](https://scryfall.com/card/5dn/1/abunas-chant?utm_source=api)  
 [Advanced Hoverguard](https://scryfall.com/card/5dn/22/advanced-hoverguard?utm_source=api)  
@@ -3013,7 +3013,7 @@ Table of Contents
 *release: 2004-10-01 | p12e_code: 141*
 
 <details>
-  <summary>Click to see 106 new card(s)</summary>
+  <summary>Click to see 106 new cards</summary>
 
 [Akki Avalanchers](https://scryfall.com/card/chk/151/akki-avalanchers?utm_source=api)  
 [Akki Rockspeaker](https://scryfall.com/card/chk/154/akki-rockspeaker?utm_source=api)  
@@ -3127,7 +3127,7 @@ Table of Contents
 *release: 2005-02-04 | p12e_code: 151*
 
 <details>
-  <summary>Click to see 54 new card(s)</summary>
+  <summary>Click to see 54 new cards</summary>
 
 [Akki Blizzard-Herder](https://scryfall.com/card/bok/91/akki-blizzard-herder?utm_source=api)  
 [Bile Urchin](https://scryfall.com/card/bok/61/bile-urchin?utm_source=api)  
@@ -3189,7 +3189,7 @@ Table of Contents
 *release: 2005-06-03 | p12e_code: 154*
 
 <details>
-  <summary>Click to see 54 new card(s)</summary>
+  <summary>Click to see 54 new cards</summary>
 
 [Akki Drillmaster](https://scryfall.com/card/sok/92/akki-drillmaster?utm_source=api)  
 [Akki Underling](https://scryfall.com/card/sok/93/akki-underling?utm_source=api)  
@@ -3251,7 +3251,7 @@ Table of Contents
 *release: 2005-07-29 | p12e_code: 155*
 
 <details>
-  <summary>Click to see 1 new card(s)</summary>
+  <summary>Click to see 1 new cards</summary>
 
 [Veteran Cavalier](https://scryfall.com/card/9ed/52/veteran-cavalier?utm_source=api)  
 </details>
@@ -3260,7 +3260,7 @@ Table of Contents
 *release: 2005-08-22 | p12e_code: 157*
 
 <details>
-  <summary>Click to see 36 new card(s)</summary>
+  <summary>Click to see 36 new cards</summary>
 
 [Bramble Elemental](https://scryfall.com/card/psal/J29/es/elemental-de-zarzas?utm_source=api)  
 [Burning-Tree Bloodscale](https://scryfall.com/card/psal/I30/es/escamasangrienta-%C3%A1rbol-ardiente?utm_source=api)  
@@ -3304,7 +3304,7 @@ Table of Contents
 *release: 2005-10-07 | p12e_code: 159*
 
 <details>
-  <summary>Click to see 90 new card(s)</summary>
+  <summary>Click to see 90 new cards</summary>
 
 [Barbarian Riftcutter](https://scryfall.com/card/rav/114/barbarian-riftcutter?utm_source=api)  
 [Benevolent Ancestor](https://scryfall.com/card/rav/3/benevolent-ancestor?utm_source=api)  
@@ -3402,7 +3402,7 @@ Table of Contents
 *release: 2006-02-03 | p12e_code: 169*
 
 <details>
-  <summary>Click to see 42 new card(s)</summary>
+  <summary>Click to see 42 new cards</summary>
 
 [Absolver Thrull](https://scryfall.com/card/gpt/1/absolver-thrull?utm_source=api)  
 [Beastmaster's Magemark](https://scryfall.com/card/gpt/80/beastmasters-magemark?utm_source=api)  
@@ -3452,7 +3452,7 @@ Table of Contents
 *release: 2006-05-05 | p12e_code: 172*
 
 <details>
-  <summary>Click to see 49 new card(s)</summary>
+  <summary>Click to see 49 new cards</summary>
 
 [Aquastrand Spider](https://scryfall.com/card/dis/80/aquastrand-spider?utm_source=api)  
 [Assault Zeppelid](https://scryfall.com/card/dis/103/assault-zeppelid?utm_source=api)  
@@ -3509,7 +3509,7 @@ Table of Contents
 *release: 2006-07-21 | p12e_code: 174*
 
 <details>
-  <summary>Click to see 51 new card(s)</summary>
+  <summary>Click to see 51 new cards</summary>
 
 [Aurochs Herd](https://scryfall.com/card/csp/103/aurochs-herd?utm_source=api)  
 [Boreal Centaur](https://scryfall.com/card/csp/104/boreal-centaur?utm_source=api)  
@@ -3568,7 +3568,7 @@ Table of Contents
 *release: 2006-10-06 | p12e_code: 179*
 
 <details>
-  <summary>Click to see 106 new card(s)</summary>
+  <summary>Click to see 106 new cards</summary>
 
 [Aetherflame Wall](https://scryfall.com/card/tsp/142/aetherflame-wall?utm_source=api)  
 [Aether Web](https://scryfall.com/card/tsp/189/aether-web?utm_source=api)  
@@ -3682,7 +3682,7 @@ Table of Contents
 *release: 2007-02-02 | p12e_code: 187*
 
 <details>
-  <summary>Click to see 58 new card(s)</summary>
+  <summary>Click to see 58 new cards</summary>
 
 [Aquamorph Entity](https://scryfall.com/card/plc/33/aquamorph-entity?utm_source=api)  
 [Aven Riftwatcher](https://scryfall.com/card/plc/1/aven-riftwatcher?utm_source=api)  
@@ -3748,7 +3748,7 @@ Table of Contents
 *release: 2007-05-04 | p12e_code: 191*
 
 <details>
-  <summary>Click to see 60 new card(s)</summary>
+  <summary>Click to see 60 new cards</summary>
 
 [Augur il-Vec](https://scryfall.com/card/fut/2/augur-il-vec?utm_source=api)  
 [Augur of Skulls](https://scryfall.com/card/fut/63/augur-of-skulls?utm_source=api)  
@@ -3816,7 +3816,7 @@ Table of Contents
 *release: 2007-07-13 | p12e_code: 193*
 
 <details>
-  <summary>Click to see 2 new card(s)</summary>
+  <summary>Click to see 2 new cards</summary>
 
 [Demolish](https://scryfall.com/card/10e/196/demolish?utm_source=api)  
 [Rock Badger](https://scryfall.com/card/10e/226/rock-badger?utm_source=api)  
@@ -3826,7 +3826,7 @@ Table of Contents
 *release: 2007-09-10 | p12e_code: 197*
 
 <details>
-  <summary>Click to see 14 new card(s)</summary>
+  <summary>Click to see 14 new cards</summary>
 
 [Exile](https://scryfall.com/card/me1/12/exile?utm_source=api)  
 [Hyalopterous Lemure](https://scryfall.com/card/me1/72/hyalopterous-lemure?utm_source=api)  
@@ -3848,7 +3848,7 @@ Table of Contents
 *release: 2007-10-12 | p12e_code: 198*
 
 <details>
-  <summary>Click to see 114 new card(s)</summary>
+  <summary>Click to see 114 new cards</summary>
 
 [Adder-Staff Boggart](https://scryfall.com/card/lrw/148/adder-staff-boggart?utm_source=api)  
 [Aethersnipe](https://scryfall.com/card/lrw/50/aethersnipe?utm_source=api)  
@@ -3970,7 +3970,7 @@ Table of Contents
 *release: 2008-02-01 | p12e_code: 208*
 
 <details>
-  <summary>Click to see 58 new card(s)</summary>
+  <summary>Click to see 58 new cards</summary>
 
 [Ambassador Oak](https://scryfall.com/card/mor/113/ambassador-oak?utm_source=api)  
 [Ballyrush Banneret](https://scryfall.com/card/mor/1/ballyrush-banneret?utm_source=api)  
@@ -4036,7 +4036,7 @@ Table of Contents
 *release: 2008-05-02 | p12e_code: 213*
 
 <details>
-  <summary>Click to see 119 new card(s)</summary>
+  <summary>Click to see 119 new cards</summary>
 
 [Aethertow](https://scryfall.com/card/shm/136/aethertow?utm_source=api)  
 [Aphotic Wisps](https://scryfall.com/card/shm/55/aphotic-wisps?utm_source=api)  
@@ -4163,7 +4163,7 @@ Table of Contents
 *release: 2008-07-25 | p12e_code: 215*
 
 <details>
-  <summary>Click to see 59 new card(s)</summary>
+  <summary>Click to see 59 new cards</summary>
 
 [Aerie Ouphes](https://scryfall.com/card/eve/65/aerie-ouphes?utm_source=api)  
 [Antler Skulkin](https://scryfall.com/card/eve/167/antler-skulkin?utm_source=api)  
@@ -4230,7 +4230,7 @@ Table of Contents
 *release: 2008-09-22 | p12e_code: 219*
 
 <details>
-  <summary>Click to see 21 new card(s)</summary>
+  <summary>Click to see 21 new cards</summary>
 
 [Adarkar Sentinel](https://scryfall.com/card/me2/201/adarkar-sentinel?utm_source=api)  
 [Aeolipile](https://scryfall.com/card/me2/202/aeolipile?utm_source=api)  
@@ -4259,7 +4259,7 @@ Table of Contents
 *release: 2008-10-03 | p12e_code: 221*
 
 <details>
-  <summary>Click to see 93 new card(s)</summary>
+  <summary>Click to see 93 new cards</summary>
 
 [Agony Warp](https://scryfall.com/card/ala/153/agony-warp?utm_source=api)  
 [Akrasan Squire](https://scryfall.com/card/ala/1/akrasan-squire?utm_source=api)  
@@ -4360,7 +4360,7 @@ Table of Contents
 *release: 2009-02-06 | p12e_code: 233*
 
 <details>
-  <summary>Click to see 57 new card(s)</summary>
+  <summary>Click to see 57 new cards</summary>
 
 [Absorb Vis](https://scryfall.com/card/con/40/absorb-vis?utm_source=api)  
 [Armillary Sphere](https://scryfall.com/card/con/134/armillary-sphere?utm_source=api)  
@@ -4425,7 +4425,7 @@ Table of Contents
 *release: 2009-02-08 | p12e_code: 236*
 
 <details>
-  <summary>Click to see 1 new card(s)</summary>
+  <summary>Click to see 1 new cards</summary>
 
 [Aeronaut Tinkerer](https://scryfall.com/card/purl/8/aeronaut-tinkerer?utm_source=api)  
 </details>
@@ -4434,7 +4434,7 @@ Table of Contents
 *release: 2009-04-30 | p12e_code: 239*
 
 <details>
-  <summary>Click to see 57 new card(s)</summary>
+  <summary>Click to see 57 new cards</summary>
 
 [Architects of Will](https://scryfall.com/card/arb/17/architects-of-will?utm_source=api)  
 [Arsenal Thresher](https://scryfall.com/card/arb/131/arsenal-thresher?utm_source=api)  
@@ -4499,7 +4499,7 @@ Table of Contents
 *release: 2009-07-17 | p12e_code: 243*
 
 <details>
-  <summary>Click to see 53 new card(s)</summary>
+  <summary>Click to see 53 new cards</summary>
 
 [Acolyte of Xathrid](https://scryfall.com/card/m10/83/acolyte-of-xathrid?utm_source=api)  
 [Angel's Mercy](https://scryfall.com/card/m10/2/angels-mercy?utm_source=api)  
@@ -4560,7 +4560,7 @@ Table of Contents
 *release: 2009-09-04 | p12e_code: 246*
 
 <details>
-  <summary>Click to see 4 new card(s)</summary>
+  <summary>Click to see 4 new cards</summary>
 
 [Beast Hunt](https://scryfall.com/card/hop/68/beast-hunt?utm_source=api)  
 [Hideous End](https://scryfall.com/card/hop/31/hideous-end?utm_source=api)  
@@ -4572,7 +4572,7 @@ Table of Contents
 *release: 2009-09-07 | p12e_code: 249*
 
 <details>
-  <summary>Click to see 37 new card(s)</summary>
+  <summary>Click to see 37 new cards</summary>
 
 [Anaba Ancestor](https://scryfall.com/card/me3/86/anaba-ancestor?utm_source=api)  
 [Anaba Spirit Crafter](https://scryfall.com/card/me3/87/anaba-spirit-crafter?utm_source=api)  
@@ -4617,7 +4617,7 @@ Table of Contents
 *release: 2009-10-02 | p12e_code: 252*
 
 <details>
-  <summary>Click to see 89 new card(s)</summary>
+  <summary>Click to see 89 new cards</summary>
 
 [Adventuring Gear](https://scryfall.com/card/zen/195/adventuring-gear?utm_source=api)  
 [Bladetusk Boar](https://scryfall.com/card/zen/118/bladetusk-boar?utm_source=api)  
@@ -4714,7 +4714,7 @@ Table of Contents
 *release: 2010-02-05 | p12e_code: 262*
 
 <details>
-  <summary>Click to see 1 new card(s)</summary>
+  <summary>Click to see 1 new cards</summary>
 
 [Ruthless Cullblade](https://scryfall.com/card/pwwk/65%E2%98%85/ja/ruthless-cullblade?utm_source=api)  
 </details>
@@ -4723,7 +4723,7 @@ Table of Contents
 *release: 2010-02-05 | p12e_code: 264*
 
 <details>
-  <summary>Click to see 55 new card(s)</summary>
+  <summary>Click to see 55 new cards</summary>
 
 [Aether Tradewinds](https://scryfall.com/card/wwk/24/aether-tradewinds?utm_source=api)  
 [Akoum Battlesinger](https://scryfall.com/card/wwk/71/akoum-battlesinger?utm_source=api)  
@@ -4786,7 +4786,7 @@ Table of Contents
 *release: 2010-04-23 | p12e_code: 268*
 
 <details>
-  <summary>Click to see 90 new card(s)</summary>
+  <summary>Click to see 90 new cards</summary>
 
 [Ancient Stirrings](https://scryfall.com/card/roe/174/ancient-stirrings?utm_source=api)  
 [Aura Finesse](https://scryfall.com/card/roe/54/aura-finesse?utm_source=api)  
@@ -4884,7 +4884,7 @@ Table of Contents
 *release: 2010-06-18 | p12e_code: 271*
 
 <details>
-  <summary>Click to see 1 new card(s)</summary>
+  <summary>Click to see 1 new cards</summary>
 
 [Plummet](https://scryfall.com/card/arc/65/plummet?utm_source=api)  
 </details>
@@ -4893,7 +4893,7 @@ Table of Contents
 *release: 2010-07-16 | p12e_code: 275*
 
 <details>
-  <summary>Click to see 43 new card(s)</summary>
+  <summary>Click to see 43 new cards</summary>
 
 [Act of Treason](https://scryfall.com/card/m11/121/act-of-treason?utm_source=api)  
 [Aether Adept](https://scryfall.com/card/m11/41/aether-adept?utm_source=api)  
@@ -4944,7 +4944,7 @@ Table of Contents
 *release: 2010-09-03 | p12e_code: 278*
 
 <details>
-  <summary>Click to see 1 new card(s)</summary>
+  <summary>Click to see 1 new cards</summary>
 
 [Kemba's Skyguard](https://scryfall.com/card/ddf/13/kembas-skyguard?utm_source=api)  
 </details>
@@ -4953,7 +4953,7 @@ Table of Contents
 *release: 2010-10-01 | p12e_code: 281*
 
 <details>
-  <summary>Click to see 91 new card(s)</summary>
+  <summary>Click to see 91 new cards</summary>
 
 [Accorder's Shield](https://scryfall.com/card/som/136/accorders-shield?utm_source=api)  
 [Alpha Tyrranax](https://scryfall.com/card/som/109/alpha-tyrranax?utm_source=api)  
@@ -5052,7 +5052,7 @@ Table of Contents
 *release: 2011-01-10 | p12e_code: 293*
 
 <details>
-  <summary>Click to see 22 new card(s)</summary>
+  <summary>Click to see 22 new cards</summary>
 
 [Alluring Scent](https://scryfall.com/card/me4/141/alluring-scent?utm_source=api)  
 [Brass Man](https://scryfall.com/card/me4/185/brass-man?utm_source=api)  
@@ -5082,7 +5082,7 @@ Table of Contents
 *release: 2011-02-04 | p12e_code: 295*
 
 <details>
-  <summary>Click to see 57 new card(s)</summary>
+  <summary>Click to see 57 new cards</summary>
 
 [Ardent Recruit](https://scryfall.com/card/mbs/2/ardent-recruit?utm_source=api)  
 [Banishment Decree](https://scryfall.com/card/mbs/3/banishment-decree?utm_source=api)  
@@ -5147,7 +5147,7 @@ Table of Contents
 *release: 2011-05-13 | p12e_code: 300*
 
 <details>
-  <summary>Click to see 53 new card(s)</summary>
+  <summary>Click to see 53 new cards</summary>
 
 [Apostle's Blessing](https://scryfall.com/card/nph/2/apostles-blessing?utm_source=api)  
 [Artillerize](https://scryfall.com/card/nph/79/artillerize?utm_source=api)  
@@ -5208,7 +5208,7 @@ Table of Contents
 *release: 2011-07-15 | p12e_code: 307*
 
 <details>
-  <summary>Click to see 37 new card(s)</summary>
+  <summary>Click to see 37 new cards</summary>
 
 [Amphin Cutthroat](https://scryfall.com/card/m12/43/amphin-cutthroat?utm_source=api)  
 [Arachnus Web](https://scryfall.com/card/m12/163/arachnus-web?utm_source=api)  
@@ -5253,7 +5253,7 @@ Table of Contents
 *release: 2011-09-30 | p12e_code: 313*
 
 <details>
-  <summary>Click to see 97 new card(s)</summary>
+  <summary>Click to see 97 new cards</summary>
 
 [Abbey Griffin](https://scryfall.com/card/isd/1/abbey-griffin?utm_source=api)  
 [Altar's Reap](https://scryfall.com/card/isd/86/altars-reap?utm_source=api)  
@@ -5358,7 +5358,7 @@ Table of Contents
 *release: 2012-02-03 | p12e_code: 323*
 
 <details>
-  <summary>Click to see 58 new card(s)</summary>
+  <summary>Click to see 58 new cards</summary>
 
 [Artful Dodge](https://scryfall.com/card/dka/27/artful-dodge?utm_source=api)  
 [Bar the Door](https://scryfall.com/card/dka/2/bar-the-door?utm_source=api)  
@@ -5424,7 +5424,7 @@ Table of Contents
 *release: 2012-05-04 | p12e_code: 329*
 
 <details>
-  <summary>Click to see 91 new card(s)</summary>
+  <summary>Click to see 91 new cards</summary>
 
 [Abundant Growth](https://scryfall.com/card/avr/167/abundant-growth?utm_source=api)  
 [Alchemist's Apprentice](https://scryfall.com/card/avr/42/alchemists-apprentice?utm_source=api)  
@@ -5523,7 +5523,7 @@ Table of Contents
 *release: 2012-06-01 | p12e_code: 332*
 
 <details>
-  <summary>Click to see 1 new card(s)</summary>
+  <summary>Click to see 1 new cards</summary>
 
 [Fractured Powerstone](https://scryfall.com/card/pc2/111/fractured-powerstone?utm_source=api)  
 </details>
@@ -5532,7 +5532,7 @@ Table of Contents
 *release: 2012-07-13 | p12e_code: 334*
 
 <details>
-  <summary>Click to see 44 new card(s)</summary>
+  <summary>Click to see 44 new cards</summary>
 
 [Ajani's Sunstriker](https://scryfall.com/card/m13/2/ajanis-sunstriker?utm_source=api)  
 [Archaeomancer](https://scryfall.com/card/m13/41/archaeomancer?utm_source=api)  
@@ -5584,7 +5584,7 @@ Table of Contents
 *release: 2012-09-07 | p12e_code: 337*
 
 <details>
-  <summary>Click to see 1 new card(s)</summary>
+  <summary>Click to see 1 new cards</summary>
 
 [Goblin Electromancer](https://scryfall.com/card/ddj/3/goblin-electromancer?utm_source=api)  
 </details>
@@ -5593,7 +5593,7 @@ Table of Contents
 *release: 2012-10-05 | p12e_code: 340*
 
 <details>
-  <summary>Click to see 90 new card(s)</summary>
+  <summary>Click to see 90 new cards</summary>
 
 [Aerial Predation](https://scryfall.com/card/rtr/113/aerial-predation?utm_source=api)  
 [Annihilating Fire](https://scryfall.com/card/rtr/85/annihilating-fire?utm_source=api)  
@@ -5691,7 +5691,7 @@ Table of Contents
 *release: 2013-02-01 | p12e_code: 350*
 
 <details>
-  <summary>Click to see 92 new card(s)</summary>
+  <summary>Click to see 92 new cards</summary>
 
 [Adaptive Snapjaw](https://scryfall.com/card/gtc/113/adaptive-snapjaw?utm_source=api)  
 [Aerial Maneuver](https://scryfall.com/card/gtc/1/aerial-maneuver?utm_source=api)  
@@ -5791,7 +5791,7 @@ Table of Contents
 *release: 2013-05-03 | p12e_code: 356*
 
 <details>
-  <summary>Click to see 59 new card(s)</summary>
+  <summary>Click to see 59 new cards</summary>
 
 [Armored Wolf-Rider](https://scryfall.com/card/dgm/52/armored-wolf-rider?utm_source=api)  
 [Awe for the Guilds](https://scryfall.com/card/dgm/31/awe-for-the-guilds?utm_source=api)  
@@ -5858,7 +5858,7 @@ Table of Contents
 *release: 2013-06-07 | p12e_code: 358*
 
 <details>
-  <summary>Click to see 17 new card(s)</summary>
+  <summary>Click to see 17 new cards</summary>
 
 [Arcbound Wanderer](https://scryfall.com/card/mma/200/arcbound-wanderer?utm_source=api)  
 [Bound in Silence](https://scryfall.com/card/mma/8/bound-in-silence?utm_source=api)  
@@ -5883,7 +5883,7 @@ Table of Contents
 *release: 2013-07-19 | p12e_code: 362*
 
 <details>
-  <summary>Click to see 33 new card(s)</summary>
+  <summary>Click to see 33 new cards</summary>
 
 [Academy Raider](https://scryfall.com/card/m14/124/academy-raider?utm_source=api)  
 [Accursed Spirit](https://scryfall.com/card/m14/83/accursed-spirit?utm_source=api)  
@@ -5924,7 +5924,7 @@ Table of Contents
 *release: 2013-09-06 | p12e_code: 365*
 
 <details>
-  <summary>Click to see 2 new card(s)</summary>
+  <summary>Click to see 2 new cards</summary>
 
 [Cavalry Pegasus](https://scryfall.com/card/ddl/4/cavalry-pegasus?utm_source=api)  
 [Satyr Hedonist](https://scryfall.com/card/ddl/47/satyr-hedonist?utm_source=api)  
@@ -5934,7 +5934,7 @@ Table of Contents
 *release: 2013-09-27 | p12e_code: 369*
 
 <details>
-  <summary>Click to see 91 new card(s)</summary>
+  <summary>Click to see 91 new cards</summary>
 
 [Agent of Horizons](https://scryfall.com/card/ths/148/agent-of-horizons?utm_source=api)  
 [Akroan Crusader](https://scryfall.com/card/ths/111/akroan-crusader?utm_source=api)  
@@ -6033,7 +6033,7 @@ Table of Contents
 *release: 2013-11-01 | p12e_code: 372*
 
 <details>
-  <summary>Click to see 1 new card(s)</summary>
+  <summary>Click to see 1 new cards</summary>
 
 [Opal Palace](https://scryfall.com/card/c13/310/opal-palace?utm_source=api)  
 </details>
@@ -6042,7 +6042,7 @@ Table of Contents
 *release: 2014-02-07 | p12e_code: 380*
 
 <details>
-  <summary>Click to see 57 new card(s)</summary>
+  <summary>Click to see 57 new cards</summary>
 
 [Akroan Skyguard](https://scryfall.com/card/bng/3/akroan-skyguard?utm_source=api)  
 [Aspect of Hydra](https://scryfall.com/card/bng/117/aspect-of-hydra?utm_source=api)  
@@ -6107,7 +6107,7 @@ Table of Contents
 *release: 2014-05-02 | p12e_code: 387*
 
 <details>
-  <summary>Click to see 57 new card(s)</summary>
+  <summary>Click to see 57 new cards</summary>
 
 [Aerial Formation](https://scryfall.com/card/jou/30/aerial-formation?utm_source=api)  
 [Ajani's Presence](https://scryfall.com/card/jou/2/ajanis-presence?utm_source=api)  
@@ -6172,7 +6172,7 @@ Table of Contents
 *release: 2014-06-06 | p12e_code: 393*
 
 <details>
-  <summary>Click to see 17 new card(s)</summary>
+  <summary>Click to see 17 new cards</summary>
 
 [Brago's Representative](https://scryfall.com/card/cns/14/bragos-representative?utm_source=api)  
 [Charging Rhino](https://scryfall.com/card/cns/159/charging-rhino?utm_source=api)  
@@ -6197,7 +6197,7 @@ Table of Contents
 *release: 2014-06-16 | p12e_code: 396*
 
 <details>
-  <summary>Click to see 23 new card(s)</summary>
+  <summary>Click to see 23 new cards</summary>
 
 [Addle](https://scryfall.com/card/vma/103/addle?utm_source=api)  
 [Afterlife](https://scryfall.com/card/vma/10/afterlife?utm_source=api)  
@@ -6228,7 +6228,7 @@ Table of Contents
 *release: 2014-07-18 | p12e_code: 401*
 
 <details>
-  <summary>Click to see 47 new card(s)</summary>
+  <summary>Click to see 47 new cards</summary>
 
 [Amphin Pathmage](https://scryfall.com/card/m15/45/amphin-pathmage?utm_source=api)  
 [Blastfire Bolt](https://scryfall.com/card/m15/130/blastfire-bolt?utm_source=api)  
@@ -6283,7 +6283,7 @@ Table of Contents
 *release: 2014-09-26 | p12e_code: 405*
 
 <details>
-  <summary>Click to see 87 new card(s)</summary>
+  <summary>Click to see 87 new cards</summary>
 
 [Abomination of Gudul](https://scryfall.com/card/ktk/159/abomination-of-gudul?utm_source=api)  
 [Abzan Banner](https://scryfall.com/card/ktk/215/abzan-banner?utm_source=api)  
@@ -6378,7 +6378,7 @@ Table of Contents
 *release: 2014-11-07 | p12e_code: 408*
 
 <details>
-  <summary>Click to see 1 new card(s)</summary>
+  <summary>Click to see 1 new cards</summary>
 
 [Commander's Sphere](https://scryfall.com/card/c14/54/commanders-sphere?utm_source=api)  
 </details>
@@ -6387,7 +6387,7 @@ Table of Contents
 *release: 2015-01-23 | p12e_code: 424*
 
 <details>
-  <summary>Click to see 52 new card(s)</summary>
+  <summary>Click to see 52 new cards</summary>
 
 [Abzan Advantage](https://scryfall.com/card/frf/2/abzan-advantage?utm_source=api)  
 [Abzan Runemark](https://scryfall.com/card/frf/3/abzan-runemark?utm_source=api)  
@@ -6447,7 +6447,7 @@ Table of Contents
 *release: 2015-03-27 | p12e_code: 428*
 
 <details>
-  <summary>Click to see 88 new card(s)</summary>
+  <summary>Click to see 88 new cards</summary>
 
 [Aerie Bowmasters](https://scryfall.com/card/dtk/170/aerie-bowmasters?utm_source=api)  
 [Ainok Artillerist](https://scryfall.com/card/dtk/171/ainok-artillerist?utm_source=api)  
@@ -6543,7 +6543,7 @@ Table of Contents
 *release: 2015-05-06 | p12e_code: 432*
 
 <details>
-  <summary>Click to see 12 new card(s)</summary>
+  <summary>Click to see 12 new cards</summary>
 
 [Armor Sliver](https://scryfall.com/card/tpr/4/armor-sliver?utm_source=api)  
 [Barbed Sliver](https://scryfall.com/card/tpr/126/barbed-sliver?utm_source=api)  
@@ -6563,7 +6563,7 @@ Table of Contents
 *release: 2015-05-22 | p12e_code: 433*
 
 <details>
-  <summary>Click to see 19 new card(s)</summary>
+  <summary>Click to see 19 new cards</summary>
 
 [Alloy Myr](https://scryfall.com/card/mm2/201/alloy-myr?utm_source=api)  
 [Cathodion](https://scryfall.com/card/mm2/203/cathodion?utm_source=api)  
@@ -6590,7 +6590,7 @@ Table of Contents
 *release: 2015-07-17 | p12e_code: 437*
 
 <details>
-  <summary>Click to see 59 new card(s)</summary>
+  <summary>Click to see 59 new cards</summary>
 
 [Aerial Volley](https://scryfall.com/card/ori/168/aerial-volley?utm_source=api)  
 [Akroan Jailer](https://scryfall.com/card/ori/1/akroan-jailer?utm_source=api)  
@@ -6657,7 +6657,7 @@ Table of Contents
 *release: 2015-08-28 | p12e_code: 441*
 
 <details>
-  <summary>Click to see 3 new card(s)</summary>
+  <summary>Click to see 3 new cards</summary>
 
 [Dominator Drone](https://scryfall.com/card/ddp/51/dominator-drone?utm_source=api)  
 [Forked Bolt](https://scryfall.com/card/ddp/60/forked-bolt?utm_source=api)  
@@ -6668,7 +6668,7 @@ Table of Contents
 *release: 2015-10-02 | p12e_code: 442*
 
 <details>
-  <summary>Click to see 87 new card(s)</summary>
+  <summary>Click to see 87 new cards</summary>
 
 [Angelic Gift](https://scryfall.com/card/bfz/19/angelic-gift?utm_source=api)  
 [Belligerent Whiptail](https://scryfall.com/card/bfz/141/belligerent-whiptail?utm_source=api)  
@@ -6763,7 +6763,7 @@ Table of Contents
 *release: 2015-11-13 | p12e_code: 447*
 
 <details>
-  <summary>Click to see 1 new card(s)</summary>
+  <summary>Click to see 1 new cards</summary>
 
 [Thought Vessel](https://scryfall.com/card/c15/55/thought-vessel?utm_source=api)  
 </details>
@@ -6772,7 +6772,7 @@ Table of Contents
 *release: 2016-01-22 | p12e_code: 454*
 
 <details>
-  <summary>Click to see 63 new card(s)</summary>
+  <summary>Click to see 63 new cards</summary>
 
 [Abstruse Interference](https://scryfall.com/card/ogw/40/abstruse-interference?utm_source=api)  
 [Affa Protector](https://scryfall.com/card/ogw/14/affa-protector?utm_source=api)  
@@ -6843,7 +6843,7 @@ Table of Contents
 *release: 2016-04-08 | p12e_code: 459*
 
 <details>
-  <summary>Click to see 95 new card(s)</summary>
+  <summary>Click to see 95 new cards</summary>
 
 [Aim High](https://scryfall.com/card/soi/193/aim-high?utm_source=api)  
 [Alms of the Vein](https://scryfall.com/card/soi/98/alms-of-the-vein?utm_source=api)  
@@ -6946,7 +6946,7 @@ Table of Contents
 *release: 2016-06-10 | p12e_code: 462*
 
 <details>
-  <summary>Click to see 24 new card(s)</summary>
+  <summary>Click to see 24 new cards</summary>
 
 [Avarax](https://scryfall.com/card/ema/117/avarax?utm_source=api)  
 [Carbonize](https://scryfall.com/card/ema/122/carbonize?utm_source=api)  
@@ -6978,7 +6978,7 @@ Table of Contents
 *release: 2016-07-22 | p12e_code: 464*
 
 <details>
-  <summary>Click to see 71 new card(s)</summary>
+  <summary>Click to see 71 new cards</summary>
 
 [Alchemist's Greeting](https://scryfall.com/card/emn/116/alchemists-greeting?utm_source=api)  
 [Backwoods Survivalists](https://scryfall.com/card/emn/150/backwoods-survivalists?utm_source=api)  
@@ -7057,7 +7057,7 @@ Table of Contents
 *release: 2016-08-26 | p12e_code: 468*
 
 <details>
-  <summary>Click to see 24 new card(s)</summary>
+  <summary>Click to see 24 new cards</summary>
 
 [Ballot Broker](https://scryfall.com/card/cn2/13/ballot-broker?utm_source=api)  
 [Borderland Explorer](https://scryfall.com/card/cn2/61/borderland-explorer?utm_source=api)  
@@ -7089,7 +7089,7 @@ Table of Contents
 *release: 2016-09-30 | p12e_code: 471*
 
 <details>
-  <summary>Click to see 97 new card(s)</summary>
+  <summary>Click to see 97 new cards</summary>
 
 [Accomplished Automaton](https://scryfall.com/card/kld/191/accomplished-automaton?utm_source=api)  
 [Acrobatic Maneuver](https://scryfall.com/card/kld/1/acrobatic-maneuver?utm_source=api)  
@@ -7194,7 +7194,7 @@ Table of Contents
 *release: 2016-11-16 | p12e_code: 479*
 
 <details>
-  <summary>Click to see 24 new card(s)</summary>
+  <summary>Click to see 24 new cards</summary>
 
 [Aggressive Instinct](https://scryfall.com/card/pz2/70855/aggressive-instinct?utm_source=api)  
 [Armored Whirl Turtle](https://scryfall.com/card/pz2/70809/armored-whirl-turtle?utm_source=api)  
@@ -7226,7 +7226,7 @@ Table of Contents
 *release: 2017-01-20 | p12e_code: 485*
 
 <details>
-  <summary>Click to see 70 new card(s)</summary>
+  <summary>Click to see 70 new cards</summary>
 
 [Aegis Automaton](https://scryfall.com/card/aer/141/aegis-automaton?utm_source=api)  
 [Aether Chaser](https://scryfall.com/card/aer/76/aether-chaser?utm_source=api)  
@@ -7304,7 +7304,7 @@ Table of Contents
 *release: 2017-03-17 | p12e_code: 488*
 
 <details>
-  <summary>Click to see 22 new card(s)</summary>
+  <summary>Click to see 22 new cards</summary>
 
 [Augur of Bolas](https://scryfall.com/card/mm3/30/augur-of-bolas?utm_source=api)  
 [Burning-Tree Emissary](https://scryfall.com/card/mm3/207/burning-tree-emissary?utm_source=api)  
@@ -7334,7 +7334,7 @@ Table of Contents
 *release: 2017-04-28 | p12e_code: 493*
 
 <details>
-  <summary>Click to see 94 new card(s)</summary>
+  <summary>Click to see 94 new cards</summary>
 
 [Anointer Priest](https://scryfall.com/card/akh/3/anointer-priest?utm_source=api)  
 [Aven Initiate](https://scryfall.com/card/akh/43/aven-initiate?utm_source=api)  
@@ -7436,7 +7436,7 @@ Table of Contents
 *release: 2017-07-14 | p12e_code: 501*
 
 <details>
-  <summary>Click to see 66 new card(s)</summary>
+  <summary>Click to see 66 new cards</summary>
 
 [Act of Heroism](https://scryfall.com/card/hou/1/act-of-heroism?utm_source=api)  
 [Aerial Guide](https://scryfall.com/card/hou/29/aerial-guide?utm_source=api)  
@@ -7510,7 +7510,7 @@ Table of Contents
 *release: 2017-09-29 | p12e_code: 514*
 
 <details>
-  <summary>Click to see 90 new card(s)</summary>
+  <summary>Click to see 90 new cards</summary>
 
 [Ancient Brontodon](https://scryfall.com/card/xln/175/ancient-brontodon?utm_source=api)  
 [Anointed Deacon](https://scryfall.com/card/xln/89/anointed-deacon?utm_source=api)  
@@ -7608,7 +7608,7 @@ Table of Contents
 *release: 2017-11-17 | p12e_code: 518*
 
 <details>
-  <summary>Click to see 28 new card(s)</summary>
+  <summary>Click to see 28 new cards</summary>
 
 [Angel of Mercy](https://scryfall.com/card/ima/6/angel-of-mercy?utm_source=api)  
 [Crowned Ceratok](https://scryfall.com/card/ima/158/crowned-ceratok?utm_source=api)  
@@ -7644,7 +7644,7 @@ Table of Contents
 *release: 2018-01-19 | p12e_code: 529*
 
 <details>
-  <summary>Click to see 57 new card(s)</summary>
+  <summary>Click to see 57 new cards</summary>
 
 [Bombard](https://scryfall.com/card/rix/93/bombard?utm_source=api)  
 [Brazen Freebooter](https://scryfall.com/card/rix/95/brazen-freebooter?utm_source=api)  
@@ -7709,7 +7709,7 @@ Table of Contents
 *release: 2018-03-16 | p12e_code: 533*
 
 <details>
-  <summary>Click to see 19 new card(s)</summary>
+  <summary>Click to see 19 new cards</summary>
 
 [Ainok Survivalist](https://scryfall.com/card/a25/157/ainok-survivalist?utm_source=api)  
 [Assembly-Worker](https://scryfall.com/card/a25/221/assembly-worker?utm_source=api)  
@@ -7736,7 +7736,7 @@ Table of Contents
 *release: 2018-04-27 | p12e_code: 537*
 
 <details>
-  <summary>Click to see 93 new card(s)</summary>
+  <summary>Click to see 93 new cards</summary>
 
 [Academy Drake](https://scryfall.com/card/dom/40/academy-drake?utm_source=api)  
 [Academy Journeymage](https://scryfall.com/card/dom/41/academy-journeymage?utm_source=api)  
@@ -7837,7 +7837,7 @@ Table of Contents
 *release: 2018-06-08 | p12e_code: 540*
 
 <details>
-  <summary>Click to see 22 new card(s)</summary>
+  <summary>Click to see 22 new cards</summary>
 
 [Aurora Champion](https://scryfall.com/card/bbd/24/aurora-champion?utm_source=api)  
 [Azra Bladeseeker](https://scryfall.com/card/bbd/55/azra-bladeseeker?utm_source=api)  
@@ -7867,7 +7867,7 @@ Table of Contents
 *release: 2018-07-13 | p12e_code: 547*
 
 <details>
-  <summary>Click to see 51 new card(s)</summary>
+  <summary>Click to see 51 new cards</summary>
 
 [Abnormal Endurance](https://scryfall.com/card/m19/85/abnormal-endurance?utm_source=api)  
 [Angel of the Dawn](https://scryfall.com/card/m19/7/angel-of-the-dawn?utm_source=api)  
@@ -7926,7 +7926,7 @@ Table of Contents
 *release: 2018-10-05 | p12e_code: 560*
 
 <details>
-  <summary>Click to see 88 new card(s)</summary>
+  <summary>Click to see 88 new cards</summary>
 
 [Artful Takedown](https://scryfall.com/card/grn/151/artful-takedown?utm_source=api)  
 [Barging Sergeant](https://scryfall.com/card/grn/92/barging-sergeant?utm_source=api)  
@@ -8022,7 +8022,7 @@ Table of Contents
 *release: 2018-12-07 | p12e_code: 572*
 
 <details>
-  <summary>Click to see 20 new card(s)</summary>
+  <summary>Click to see 20 new cards</summary>
 
 [Arena Athlete](https://scryfall.com/card/uma/123/arena-athlete?utm_source=api)  
 [Canker Abomination](https://scryfall.com/card/uma/212/canker-abomination?utm_source=api)  
@@ -8050,7 +8050,7 @@ Table of Contents
 *release: 2019-01-25 | p12e_code: 575*
 
 <details>
-  <summary>Click to see 1 new card(s)</summary>
+  <summary>Click to see 1 new cards</summary>
 
 [Growth Spiral](https://scryfall.com/card/prna/178/growth-spiral?utm_source=api)  
 </details>
@@ -8059,7 +8059,7 @@ Table of Contents
 *release: 2019-01-25 | p12e_code: 576*
 
 <details>
-  <summary>Click to see 96 new card(s)</summary>
+  <summary>Click to see 96 new cards</summary>
 
 [Aeromunculus](https://scryfall.com/card/rna/152/aeromunculus?utm_source=api)  
 [Applied Biomancy](https://scryfall.com/card/rna/153/applied-biomancy?utm_source=api)  
@@ -8163,7 +8163,7 @@ Table of Contents
 *release: 2019-05-03 | p12e_code: 584*
 
 <details>
-  <summary>Click to see 94 new card(s)</summary>
+  <summary>Click to see 94 new cards</summary>
 
 [Ahn-Crop Invader](https://scryfall.com/card/war/113/ahn-crop-invader?utm_source=api)  
 [Aid the Fallen](https://scryfall.com/card/war/76/aid-the-fallen?utm_source=api)  
@@ -8265,7 +8265,7 @@ Table of Contents
 *release: 2019-06-14 | p12e_code: 587*
 
 <details>
-  <summary>Click to see 87 new card(s)</summary>
+  <summary>Click to see 87 new cards</summary>
 
 [Amorphous Axe](https://scryfall.com/card/mh1/219/amorphous-axe?utm_source=api)  
 [Answered Prayers](https://scryfall.com/card/mh1/2/answered-prayers?utm_source=api)  
@@ -8360,7 +8360,7 @@ Table of Contents
 *release: 2019-07-12 | p12e_code: 590*
 
 <details>
-  <summary>Click to see 51 new card(s)</summary>
+  <summary>Click to see 51 new cards</summary>
 
 [Aerial Assault](https://scryfall.com/card/m20/1/aerial-assault?utm_source=api)  
 [Agonizing Syphon](https://scryfall.com/card/m20/83/agonizing-syphon?utm_source=api)  
@@ -8419,7 +8419,7 @@ Table of Contents
 *release: 2019-08-23 | p12e_code: 597*
 
 <details>
-  <summary>Click to see 1 new card(s)</summary>
+  <summary>Click to see 1 new cards</summary>
 
 [Scaretiller](https://scryfall.com/card/c19/57/scaretiller?utm_source=api)  
 </details>
@@ -8428,7 +8428,7 @@ Table of Contents
 *release: 2019-10-04 | p12e_code: 600*
 
 <details>
-  <summary>Click to see 83 new card(s)</summary>
+  <summary>Click to see 83 new cards</summary>
 
 [Arcane Signet](https://scryfall.com/card/eld/331/arcane-signet?utm_source=api)  
 [Ardenvale Paladin](https://scryfall.com/card/eld/4/ardenvale-paladin?utm_source=api)  
@@ -8519,7 +8519,7 @@ Table of Contents
 *release: 2020-01-24 | p12e_code: 612*
 
 <details>
-  <summary>Click to see 91 new card(s)</summary>
+  <summary>Click to see 91 new cards</summary>
 
 [Altar of the Pantheon](https://scryfall.com/card/thb/231/altar-of-the-pantheon?utm_source=api)  
 [Arena Trickster](https://scryfall.com/card/thb/126/arena-trickster?utm_source=api)  
@@ -8618,7 +8618,7 @@ Table of Contents
 *release: 2020-04-17 | p12e_code: 618*
 
 <details>
-  <summary>Click to see 1 new card(s)</summary>
+  <summary>Click to see 1 new cards</summary>
 
 [Bonder's Ornament](https://scryfall.com/card/c20/67/bonders-ornament?utm_source=api)  
 </details>
@@ -8627,7 +8627,7 @@ Table of Contents
 *release: 2020-04-24 | p12e_code: 622*
 
 <details>
-  <summary>Click to see 81 new card(s)</summary>
+  <summary>Click to see 81 new cards</summary>
 
 [Adaptive Shimmerer](https://scryfall.com/card/iko/1/adaptive-shimmerer?utm_source=api)  
 [Aegis Turtle](https://scryfall.com/card/iko/39/aegis-turtle?utm_source=api)  
@@ -8716,7 +8716,7 @@ Table of Contents
 *release: 2020-07-03 | p12e_code: 630*
 
 <details>
-  <summary>Click to see 58 new card(s)</summary>
+  <summary>Click to see 58 new cards</summary>
 
 [Adherent of Hope](https://scryfall.com/card/m21/321/adherent-of-hope?utm_source=api)  
 [Alchemist's Gift](https://scryfall.com/card/m21/87/alchemists-gift?utm_source=api)  
@@ -8782,7 +8782,7 @@ Table of Contents
 *release: 2020-07-17 | p12e_code: 634*
 
 <details>
-  <summary>Click to see 12 new card(s)</summary>
+  <summary>Click to see 12 new cards</summary>
 
 [Archaeomender](https://scryfall.com/card/jmp/9/archaeomender?utm_source=api)  
 [Cauldron Familiar](https://scryfall.com/card/jmp/216/cauldron-familiar?utm_source=api)  
@@ -8802,7 +8802,7 @@ Table of Contents
 *release: 2020-08-07 | p12e_code: 636*
 
 <details>
-  <summary>Click to see 25 new card(s)</summary>
+  <summary>Click to see 25 new cards</summary>
 
 [Abrade](https://scryfall.com/card/2xm/114/abrade?utm_source=api)  
 [Alabaster Mage](https://scryfall.com/card/2xm/2/alabaster-mage?utm_source=api)  
@@ -8835,7 +8835,7 @@ Table of Contents
 *release: 2020-09-25 | p12e_code: 648*
 
 <details>
-  <summary>Click to see 92 new card(s)</summary>
+  <summary>Click to see 92 new cards</summary>
 
 [Adventure Awaits](https://scryfall.com/card/znr/177/adventure-awaits?utm_source=api)  
 [Akoum Hellhound](https://scryfall.com/card/znr/133/akoum-hellhound?utm_source=api)  
@@ -8935,7 +8935,7 @@ Table of Contents
 *release: 2020-11-20 | p12e_code: 651*
 
 <details>
-  <summary>Click to see 45 new card(s)</summary>
+  <summary>Click to see 45 new cards</summary>
 
 [Annoyed Altisaur](https://scryfall.com/card/cmr/216/annoyed-altisaur?utm_source=api)  
 [Anointer of Valor](https://scryfall.com/card/cmr/8/anointer-of-valor?utm_source=api)  
@@ -8988,7 +8988,7 @@ Table of Contents
 *release: 2021-02-05 | p12e_code: 658*
 
 <details>
-  <summary>Click to see 103 new card(s)</summary>
+  <summary>Click to see 103 new cards</summary>
 
 [Alpine Meadow](https://scryfall.com/card/khm/248/alpine-meadow?utm_source=api)  
 [Arachnoform](https://scryfall.com/card/khm/159/arachnoform?utm_source=api)  
@@ -9099,7 +9099,7 @@ Table of Contents
 *release: 2021-04-23 | p12e_code: 666*
 
 <details>
-  <summary>Click to see 1 new card(s)</summary>
+  <summary>Click to see 1 new cards</summary>
 
 [Study Hall](https://scryfall.com/card/c21/80/study-hall?utm_source=api)  
 </details>
@@ -9108,7 +9108,7 @@ Table of Contents
 *release: 2021-04-23 | p12e_code: 669*
 
 <details>
-  <summary>Click to see 105 new card(s)</summary>
+  <summary>Click to see 105 new cards</summary>
 
 [Ageless Guardian](https://scryfall.com/card/stx/8/ageless-guardian?utm_source=api)  
 [Arcane Subtraction](https://scryfall.com/card/stx/36/arcane-subtraction?utm_source=api)  
@@ -9219,4 +9219,4 @@ Table of Contents
 
 
 
-*Last updated: 2021-05-26, 19:35:20.*
+*Last updated: 2021-05-26, 19:43:14.*
