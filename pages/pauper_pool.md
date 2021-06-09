@@ -6,11 +6,10 @@ Every group lists common cards that were introduced in the format (and that are 
 These cards can be new cards or downshifts, while reprints are excluded.
 
 This page should be useful for Pauper players that haven't followed the latest releases and would like to be informed on what has recently changed.
-You can click on each set to get a visual preview of the cards.
 
 Further information about reference numbers used by Pauperformance (p12e) to uniquely identify Magic sets can be found in the [Set Index page](set_index.md).
 
-The total number of cards in the Pauper pool is: 7840.
+The total number of cards in the Pauper pool is: 7941.
 
 ---
 Table of Contents
@@ -166,6 +165,7 @@ Table of Contents
 * [Kaldheim](#kaldheim-khm) (*release: 2021-02-05 | p12e_code: 658*)
 * [Commander 2021](#commander-2021-c21) (*release: 2021-04-23 | p12e_code: 666*)
 * [Strixhaven: School of Mages](#strixhaven-school-of-mages-stx) (*release: 2021-04-23 | p12e_code: 669*)
+* [Modern Horizons 2](#modern-horizons-2-mh2) (*release: 2021-06-18 | p12e_code: 676*)
 
 ---
 
@@ -9217,6 +9217,115 @@ Table of Contents
 [Witherbloom Pledgemage](https://scryfall.com/card/stx/249/witherbloom-pledgemage?utm_source=api)  
 </details>
 
+## Modern Horizons 2 (mh2)
+*release: 2021-06-18 | p12e_code: 676*
+
+<details>
+  <summary>Click to see 101 new cards</summary>
+
+[Abundant Harvest](https://scryfall.com/card/mh2/147/abundant-harvest?utm_source=api)  
+[Aeromoeba](https://scryfall.com/card/mh2/37/aeromoeba?utm_source=api)  
+[Arcbound Mouser](https://scryfall.com/card/mh2/3/arcbound-mouser?utm_source=api)  
+[Arcbound Prototype](https://scryfall.com/card/mh2/4/arcbound-prototype?utm_source=api)  
+[Arcbound Slasher](https://scryfall.com/card/mh2/111/arcbound-slasher?utm_source=api)  
+[Arcbound Tracker](https://scryfall.com/card/mh2/112/arcbound-tracker?utm_source=api)  
+[Bannerhide Krushok](https://scryfall.com/card/mh2/149/bannerhide-krushok?utm_source=api)  
+[Battle Plan](https://scryfall.com/card/mh2/114/battle-plan?utm_source=api)  
+[Blacksmith's Skill](https://scryfall.com/card/mh2/6/blacksmiths-skill?utm_source=api)  
+[Bone Shards](https://scryfall.com/card/mh2/76/bone-shards?utm_source=api)  
+[Bottle Golems](https://scryfall.com/card/mh2/222/bottle-golems?utm_source=api)  
+[Break Ties](https://scryfall.com/card/mh2/8/break-ties?utm_source=api)  
+[Breathless Knight](https://scryfall.com/card/mh2/187/breathless-knight?utm_source=api)  
+[Burdened Aerialist](https://scryfall.com/card/mh2/38/burdened-aerialist?utm_source=api)  
+[Cabal Initiate](https://scryfall.com/card/mh2/78/cabal-initiate?utm_source=api)  
+[Captured by Lagacs](https://scryfall.com/card/mh2/188/captured-by-lagacs?utm_source=api)  
+[Chatterstorm](https://scryfall.com/card/mh2/152/chatterstorm?utm_source=api)  
+[Chrome Courier](https://scryfall.com/card/mh2/190/chrome-courier?utm_source=api)  
+[Crack Open](https://scryfall.com/card/mh2/154/crack-open?utm_source=api)  
+[Darkmoss Bridge](https://scryfall.com/card/mh2/245/darkmoss-bridge?utm_source=api)  
+[Deepwood Denizen](https://scryfall.com/card/mh2/155/deepwood-denizen?utm_source=api)  
+[Dihada's Ploy](https://scryfall.com/card/mh2/193/dihadas-ploy?utm_source=api)  
+[Discerning Taste](https://scryfall.com/card/mh2/82/discerning-taste?utm_source=api)  
+[Disciple of the Sun](https://scryfall.com/card/mh2/11/disciple-of-the-sun?utm_source=api)  
+[Drey Keeper](https://scryfall.com/card/mh2/194/drey-keeper?utm_source=api)  
+[Drossforge Bridge](https://scryfall.com/card/mh2/246/drossforge-bridge?utm_source=api)  
+[Duskshell Crawler](https://scryfall.com/card/mh2/156/duskshell-crawler?utm_source=api)  
+[Echoing Return](https://scryfall.com/card/mh2/83/echoing-return?utm_source=api)  
+[Etherium Spinner](https://scryfall.com/card/mh2/40/etherium-spinner?utm_source=api)  
+[Fairgrounds Patrol](https://scryfall.com/card/mh2/13/fairgrounds-patrol?utm_source=api)  
+[Faithless Salvaging](https://scryfall.com/card/mh2/122/faithless-salvaging?utm_source=api)  
+[Floodhound](https://scryfall.com/card/mh2/42/floodhound?utm_source=api)  
+[Flourishing Strike](https://scryfall.com/card/mh2/159/flourishing-strike?utm_source=api)  
+[Fodder Tosser](https://scryfall.com/card/mh2/226/fodder-tosser?utm_source=api)  
+[Foul Watcher](https://scryfall.com/card/mh2/43/foul-watcher?utm_source=api)  
+[Foundry Helix](https://scryfall.com/card/mh2/196/foundry-helix?utm_source=api)  
+[Funnel-Web Recluse](https://scryfall.com/card/mh2/161/funnel-web-recluse?utm_source=api)  
+[Galvanic Relay](https://scryfall.com/card/mh2/127/galvanic-relay?utm_source=api)  
+[Gargadon](https://scryfall.com/card/mh2/128/gargadon?utm_source=api)  
+[Gilt-Blade Prowler](https://scryfall.com/card/mh2/86/gilt-blade-prowler?utm_source=api)  
+[Glimmer Bairn](https://scryfall.com/card/mh2/163/glimmer-bairn?utm_source=api)  
+[Goblin Anarchomancer](https://scryfall.com/card/mh2/200/goblin-anarchomancer?utm_source=api)  
+[Goldmire Bridge](https://scryfall.com/card/mh2/247/goldmire-bridge?utm_source=api)  
+[Gouged Zealot](https://scryfall.com/card/mh2/131/gouged-zealot?utm_source=api)  
+[Guardian Kirin](https://scryfall.com/card/mh2/15/guardian-kirin?utm_source=api)  
+[Hard Evidence](https://scryfall.com/card/mh2/46/hard-evidence?utm_source=api)  
+[Hell Mongrel](https://scryfall.com/card/mh2/88/hell-mongrel?utm_source=api)  
+[Jade Avenger](https://scryfall.com/card/mh2/167/jade-avenger?utm_source=api)  
+[Jewel-Eyed Cobra](https://scryfall.com/card/mh2/168/jewel-eyed-cobra?utm_source=api)  
+[Kitchen Imp](https://scryfall.com/card/mh2/89/kitchen-imp?utm_source=api)  
+[Knighted Myr](https://scryfall.com/card/mh2/17/knighted-myr?utm_source=api)  
+[Landscaper Colos](https://scryfall.com/card/mh2/18/landscaper-colos?utm_source=api)  
+[Late to Dinner](https://scryfall.com/card/mh2/19/late-to-dinner?utm_source=api)  
+[Lens Flare](https://scryfall.com/card/mh2/20/lens-flare?utm_source=api)  
+[Lightning Spear](https://scryfall.com/card/mh2/134/lightning-spear?utm_source=api)  
+[Loathsome Curator](https://scryfall.com/card/mh2/91/loathsome-curator?utm_source=api)  
+[Lose Focus](https://scryfall.com/card/mh2/49/lose-focus?utm_source=api)  
+[Marble Gargoyle](https://scryfall.com/card/mh2/21/marble-gargoyle?utm_source=api)  
+[Mental Journey](https://scryfall.com/card/mh2/51/mental-journey?utm_source=api)  
+[Mine Collapse](https://scryfall.com/card/mh2/135/mine-collapse?utm_source=api)  
+[Mistvault Bridge](https://scryfall.com/card/mh2/249/mistvault-bridge?utm_source=api)  
+[Mount Velus Manticore](https://scryfall.com/card/mh2/136/mount-velus-manticore?utm_source=api)  
+[Myr Scrapling](https://scryfall.com/card/mh2/230/myr-scrapling?utm_source=api)  
+[Nested Shambler](https://scryfall.com/card/mh2/95/nested-shambler?utm_source=api)  
+[Orchard Strider](https://scryfall.com/card/mh2/169/orchard-strider?utm_source=api)  
+[Ornithopter of Paradise](https://scryfall.com/card/mh2/232/ornithopter-of-paradise?utm_source=api)  
+[Parcel Myr](https://scryfall.com/card/mh2/54/parcel-myr?utm_source=api)  
+[Phantasmal Dreadmaw](https://scryfall.com/card/mh2/55/phantasmal-dreadmaw?utm_source=api)  
+[Piercing Rays](https://scryfall.com/card/mh2/24/piercing-rays?utm_source=api)  
+[Razortide Bridge](https://scryfall.com/card/mh2/252/razortide-bridge?utm_source=api)  
+[Recalibrate](https://scryfall.com/card/mh2/57/recalibrate?utm_source=api)  
+[Revolutionist](https://scryfall.com/card/mh2/139/revolutionist?utm_source=api)  
+[Rift Sower](https://scryfall.com/card/mh2/170/rift-sower?utm_source=api)  
+[Rustvale Bridge](https://scryfall.com/card/mh2/253/rustvale-bridge?utm_source=api)  
+[Shattered Ego](https://scryfall.com/card/mh2/62/shattered-ego?utm_source=api)  
+[Silverbluff Bridge](https://scryfall.com/card/mh2/255/silverbluff-bridge?utm_source=api)  
+[Sinister Starfish](https://scryfall.com/card/mh2/99/sinister-starfish?utm_source=api)  
+[Skophos Reaver](https://scryfall.com/card/mh2/140/skophos-reaver?utm_source=api)  
+[Slagwoods Bridge](https://scryfall.com/card/mh2/256/slagwoods-bridge?utm_source=api)  
+[Smell Fear](https://scryfall.com/card/mh2/173/smell-fear?utm_source=api)  
+[Sojourner's Companion](https://scryfall.com/card/mh2/235/sojourners-companion?utm_source=api)  
+[So Shiny](https://scryfall.com/card/mh2/63/so-shiny?utm_source=api)  
+[Soul of Migration](https://scryfall.com/card/mh2/33/soul-of-migration?utm_source=api)  
+[Steelfin Whale](https://scryfall.com/card/mh2/65/steelfin-whale?utm_source=api)  
+[Step Through](https://scryfall.com/card/mh2/66/step-through?utm_source=api)  
+[Storm God's Oracle](https://scryfall.com/card/mh2/213/storm-gods-oracle?utm_source=api)  
+[Tanglepool Bridge](https://scryfall.com/card/mh2/257/tanglepool-bridge?utm_source=api)  
+[Tavern Scoundrel](https://scryfall.com/card/mh2/144/tavern-scoundrel?utm_source=api)  
+[Terminal Agony](https://scryfall.com/card/mh2/215/terminal-agony?utm_source=api)  
+[Thornglint Bridge](https://scryfall.com/card/mh2/258/thornglint-bridge?utm_source=api)  
+[Tizerus Charger](https://scryfall.com/card/mh2/101/tizerus-charger?utm_source=api)  
+[Tormod's Cryptkeeper](https://scryfall.com/card/mh2/239/tormods-cryptkeeper?utm_source=api)  
+[Tourach's Canticle](https://scryfall.com/card/mh2/103/tourachs-canticle?utm_source=api)  
+[Tragic Fall](https://scryfall.com/card/mh2/104/tragic-fall?utm_source=api)  
+[Unbounded Potential](https://scryfall.com/card/mh2/36/unbounded-potential?utm_source=api)  
+[Unholy Heat](https://scryfall.com/card/mh2/145/unholy-heat?utm_source=api)  
+[Urban Daggertooth](https://scryfall.com/card/mh2/181/urban-daggertooth?utm_source=api)  
+[Vermin Gorger](https://scryfall.com/card/mh2/107/vermin-gorger?utm_source=api)  
+[Viashino Lashclaw](https://scryfall.com/card/mh2/146/viashino-lashclaw?utm_source=api)  
+[Wavesifter](https://scryfall.com/card/mh2/217/wavesifter?utm_source=api)  
+[World-Weary](https://scryfall.com/card/mh2/109/world-weary?utm_source=api)  
+</details>
 
 
-*Last updated: 2021-05-26, 19:43:14.*
+
+*Last updated: 2021-06-09, 17:22:31.*
