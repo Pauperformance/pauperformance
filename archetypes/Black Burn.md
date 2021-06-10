@@ -1,8 +1,8 @@
-# Burn
+# Black Burn
 
-**Aliases**: 
+**Aliases**: `Black Deck Wins`
 
-**Dominant mana**: <img src="../resources/images/mana/R.png" width="25"/>
+**Dominant mana**: <img src="../resources/images/mana/B.png" width="25"/>
 
 **Type**: `Aggro`
 

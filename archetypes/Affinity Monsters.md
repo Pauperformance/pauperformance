@@ -35,9 +35,9 @@
 
 ## **Decks**
 
-[Affinity Monsters 676.001.Shika93](https://deckstats.net/decks/78813/2103919-affinity-monsters-676-001) | *2021-06-10, 17:17:10* |   
-[Affinity Monsters 676.002.Shika93](https://deckstats.net/decks/78813/2103920-affinity-monsters-676-002) | *2021-06-10, 17:17:38* |   
-[Affinity Monsters 676.003.Shika93](https://deckstats.net/decks/78813/2103921-affinity-monsters-676-003) | *2021-06-10, 17:18:30* |   
+[Affinity Monsters 676.001.Shika93](https://deckstats.net/decks/78813/2103919-affinity-monsters-676-001) | *2021-06-10, 17:17:10* | 
+[Affinity Monsters 676.002.Shika93](https://deckstats.net/decks/78813/2103920-affinity-monsters-676-002) | *2021-06-10, 17:17:38* | 
+[Affinity Monsters 676.003.Shika93](https://deckstats.net/decks/78813/2103921-affinity-monsters-676-003) | *2021-06-10, 17:18:30* | 
 
 
-*Last updated: 2021-06-10, 19:12:43.*
+*Last updated: 2021-06-10, 19:24:10.*

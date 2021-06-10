@@ -1,6 +1,6 @@
-# Burn
+# Red Deck Wins
 
-**Aliases**: 
+**Aliases**: `RDW`
 
 **Dominant mana**: <img src="../resources/images/mana/R.png" width="25"/>
 
@@ -20,4 +20,4 @@
 
 
 
-*Last updated: 2021-06-10, 19:24:15.*
+*Last updated: 2021-06-10, 19:24:16.*

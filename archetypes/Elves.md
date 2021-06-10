@@ -1,10 +1,10 @@
-# Burn
+# Elves
 
 **Aliases**: 
 
-**Dominant mana**: <img src="../resources/images/mana/R.png" width="25"/>
+**Dominant mana**: <img src="../resources/images/mana/G.png" width="25"/>
 
-**Type**: `Aggro`
+**Type**: `Aggro`, `Combo`
 
 **Description**: TODO.
 

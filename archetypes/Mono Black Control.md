@@ -1,0 +1,23 @@
+# Mono Black Control
+
+**Aliases**: `Mono Black Devotion`
+
+**Dominant mana**: <img src="../resources/images/mana/B.png" width="25"/>
+
+**Type**: `Control`
+
+**Description**: TODO.
+
+## **Staples**
+
+
+
+## **Frequent cards**
+
+
+
+## **Decks**
+
+
+
+*Last updated: 2021-06-10, 19:24:16.*
