@@ -1,4 +1,4 @@
-# Goblins
+# Fireball Tron
 
 **Aliases**: 
 

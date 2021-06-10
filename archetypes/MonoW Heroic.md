@@ -1,8 +1,8 @@
-# Goblins
+# MonoW Heroic
 
 **Aliases**: 
 
-**Dominant mana**: <img src="../resources/images/mana/R.png" width="25"/>
+**Dominant mana**: <img src="../resources/images/mana/W.png" width="25"/>
 
 **Type**: `Aggro`
 
