@@ -2,7 +2,7 @@
 
 **Aliases**: `Golgari Aristocrats`
 
-**Dominant mana**: <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/B.png" width="25"/>
+**Dominant mana**: <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/>
 
 **Type**: `Aggro`
 
@@ -20,4 +20,4 @@
 
 
 
-*Last updated: 2021-06-10, 18:09:20.*
+*Last updated: 2021-06-10, 19:11:09.*
