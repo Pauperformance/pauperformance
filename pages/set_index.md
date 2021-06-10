@@ -10,7 +10,8 @@ For this reason, the set index looks different from other versions available onl
 However, this index is built in a cross-format, stable, backward- and forward-compatible way and is thus preferred.
 
 Pauperformance decks use the **p12e code** as identifier.
-Lines in **bold** correspond to sets that have introduced new cards in the [Pauper pool](pauper_pool.md).
+
+Lines in **bold** correspond to sets that have introduced new cards in the [Pauper Pool](pauper_pool.md).
 
 | p12e code | Scryfall code | Set name                                        | Release date |
 | ----------| ------------- | ----------------------------------------------- | ------------ |
@@ -695,4 +696,4 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | 679       | afr           | Adventures in the Forgotten Realms              | 2021-07-23   |
 
 
-*Last updated: 2021-06-09, 17:35:17.*
+*Last updated: 2021-06-10, 18:09:12.*
