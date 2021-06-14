@@ -21,4 +21,4 @@
 [Golgari TortEx 669.001.Shika93](https://deckstats.net/decks/78813/2103917-golgari-tortex-669-001) | *2021-06-10, 17:16:00* |   
 
 
-*Last updated: 2021-06-14, 20:18:52.*
+*Last updated: 2021-06-14, 20:31:48.*
