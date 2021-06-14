@@ -44,7 +44,6 @@ Every archetype in the list is linked to its dedicated page, where you will find
 [MonoU Delver](../archetypes/MonoU%20Delver.md) | <img src="../resources/images/mana/U.png" width="25"/> | Tempo           |
 [MonoU Faeries](../archetypes/MonoU%20Faeries.md) | <img src="../resources/images/mana/U.png" width="25"/> | Tempo           |
 [MonoW Heroic](../archetypes/MonoW%20Heroic.md) | <img src="../resources/images/mana/W.png" width="25"/> | Aggro           |
-[MonoW Heroic](../archetypes/MonoW%20Heroic.md) | <img src="../resources/images/mana/W.png" width="25"/> | Aggro           |
 [Orzhov Pestilence](../archetypes/Orzhov%20Pestilence.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Control         |
 [Petal Festival](../archetypes/Petal%20Festival.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> | Combo           |
 [Rakdos Control](../archetypes/Rakdos%20Control.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Control         |
@@ -56,7 +55,8 @@ Every archetype in the list is linked to its dedicated page, where you will find
 [Turbo Slivers](../archetypes/Turbo%20Slivers.md) | <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Aggro, Combo    |
 [Turbofog](../archetypes/Turbofog.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> | Control         |
 [Walls Combo](../archetypes/Walls%20Combo.md) | <img src="../resources/images/mana/G.png" width="25"/> | Combo           |
+[White Weenie](../archetypes/White%20Weenie.md) | <img src="../resources/images/mana/W.png" width="25"/> | Aggro           |
 
 
 
-*Last updated: 2021-06-14, 20:11:58.*
+*Last updated: 2021-06-14, 20:18:40.*
