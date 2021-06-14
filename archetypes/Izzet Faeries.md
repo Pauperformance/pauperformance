@@ -1,10 +1,10 @@
-# Reanimator
+# Izzet Faeries
 
 **Aliases**: 
 
 **Dominant mana**: <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/>
 
-**Type**: `Aggro`, `Combo`
+**Type**: `Tempo`
 
 **Description**: TODO.
 
@@ -20,4 +20,4 @@
 
 
 
-*Last updated: 2021-06-14, 20:01:05.*
+*Last updated: 2021-06-14, 20:01:04.*

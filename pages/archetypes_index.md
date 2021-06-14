@@ -12,6 +12,7 @@ Every archetype in the list is linked to its dedicated page, where you will find
 [Affinity Monsters](../archetypes/Affinity%20Monsters.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> <img src="../resources/images/mana/C.png" width="25"/> | Midrange, Combo |
 [Aristocrats](../archetypes/Aristocrats.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> | Aggro           |
 [Black Burn](../archetypes/Black%20Burn.md) | <img src="../resources/images/mana/B.png" width="25"/> | Aggro           |
+[Bogles](../archetypes/Bogles.md) | <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Aggro           |
 [Burn](../archetypes/Burn.md) | <img src="../resources/images/mana/R.png" width="25"/> | Aggro           |
 [Dimir Alchemy](../archetypes/Dimir%20Alchemy.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/B.png" width="25"/> | Control         |
 [Dimir Delver](../archetypes/Dimir%20Delver.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/B.png" width="25"/> | Tempo           |
@@ -20,15 +21,24 @@ Every archetype in the list is linked to its dedicated page, where you will find
 [Fireball Tron](../archetypes/Fireball%20Tron.md) | <img src="../resources/images/mana/R.png" width="25"/> | Midrange        |
 [Goblins](../archetypes/Goblins.md) | <img src="../resources/images/mana/R.png" width="25"/> | Aggro           |
 [Golgari TortEx](../archetypes/Golgari%20TortEx.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> | Midrange        |
+[Gruul Aggro](../archetypes/Gruul%20Aggro.md) | <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Aggro           |
 [Infect](../archetypes/Infect.md) | <img src="../resources/images/mana/G.png" width="25"/> | Aggro           |
+[Izzet Blitz](../archetypes/Izzet%20Blitz.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Aggro, Combo    |
+[Izzet Curve](../archetypes/Izzet%20Curve.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Midrange, Combo |
+[Izzet Delver](../archetypes/Izzet%20Delver.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Tempo           |
+[Izzet Faeries](../archetypes/Izzet%20Faeries.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Tempo           |
+[Midnight Gond](../archetypes/Midnight%20Gond.md) | <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Combo           |
 [Moggwarts](../archetypes/Moggwarts.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Combo           |
 [Mono Black Control](../archetypes/Mono%20Black%20Control.md) | <img src="../resources/images/mana/B.png" width="25"/> | Control         |
+[MonoB Ponza](../archetypes/MonoB%20Ponza.md) | <img src="../resources/images/mana/B.png" width="25"/> | Combo           |
+[MonoG Ponza](../archetypes/MonoG%20Ponza.md) | <img src="../resources/images/mana/G.png" width="25"/> | Combo           |
 [MonoG Tron](../archetypes/MonoG%20Tron.md) | <img src="../resources/images/mana/G.png" width="25"/> | Midrange        |
 [MonoU Delver](../archetypes/MonoU%20Delver.md) | <img src="../resources/images/mana/U.png" width="25"/> | Tempo           |
 [MonoU Faeries](../archetypes/MonoU%20Faeries.md) | <img src="../resources/images/mana/U.png" width="25"/> | Tempo           |
 [MonoW Heroic](../archetypes/MonoW%20Heroic.md) | <img src="../resources/images/mana/W.png" width="25"/> | Aggro           |
 [MonoW Heroic](../archetypes/MonoW%20Heroic.md) | <img src="../resources/images/mana/W.png" width="25"/> | Aggro           |
 [Orzhov Pestilence](../archetypes/Orzhov%20Pestilence.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Control         |
+[Petal Festival](../archetypes/Petal%20Festival.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> | Combo           |
 [Rakdos Control](../archetypes/Rakdos%20Control.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Control         |
 [Rakdos Madness](../archetypes/Rakdos%20Madness.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Midrange        |
 [Rakdos TortEx](../archetypes/Rakdos%20TortEx.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Midrange        |
@@ -36,8 +46,9 @@ Every archetype in the list is linked to its dedicated page, where you will find
 [Red Deck Wins](../archetypes/Red%20Deck%20Wins.md) | <img src="../resources/images/mana/R.png" width="25"/> | Aggro           |
 [Stompy](../archetypes/Stompy.md) | <img src="../resources/images/mana/G.png" width="25"/> | Aggro           |
 [Turbo Slivers](../archetypes/Turbo%20Slivers.md) | <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Aggro, Combo    |
+[Turbofog](../archetypes/Turbofog.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> | Control         |
 [Walls Combo](../archetypes/Walls%20Combo.md) | <img src="../resources/images/mana/G.png" width="25"/> | Combo           |
 
 
 
-*Last updated: 2021-06-14, 19:41:33.*
+*Last updated: 2021-06-14, 20:00:53.*

@@ -1,10 +1,10 @@
-# MonoW Heroic
+# MonoB Ponza
 
 **Aliases**: 
 
-**Dominant mana**: <img src="../resources/images/mana/W.png" width="25"/>
+**Dominant mana**: <img src="../resources/images/mana/B.png" width="25"/>
 
-**Type**: `Aggro`
+**Type**: `Combo`
 
 **Description**: TODO.
 

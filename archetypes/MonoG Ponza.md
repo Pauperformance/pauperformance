@@ -1,10 +1,10 @@
-# MonoG Tron
+# MonoG Ponza
 
 **Aliases**: 
 
 **Dominant mana**: <img src="../resources/images/mana/G.png" width="25"/>
 
-**Type**: `Midrange`
+**Type**: `Combo`
 
 **Description**: TODO.
 
