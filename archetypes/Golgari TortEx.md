@@ -1,10 +1,10 @@
-# Aristocrats
+# Golgari TortEx
 
 **Aliases**: 
 
 **Dominant mana**: <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/>
 
-**Type**: `Aggro`
+**Type**: `Midrange`
 
 **Description**: TODO.
 
@@ -18,6 +18,7 @@
 
 ## **Decks**
 
+[Golgari TortEx 669.001.Shika93](https://deckstats.net/decks/78813/2103917-golgari-tortex-669-001) | *2021-06-10, 17:16:00* |   
 
 
-*Last updated: 2021-06-14, 19:41:43.*
+*Last updated: 2021-06-14, 19:41:44.*

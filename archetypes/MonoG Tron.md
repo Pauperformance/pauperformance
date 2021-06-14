@@ -4,7 +4,7 @@
 
 **Dominant mana**: <img src="../resources/images/mana/G.png" width="25"/>
 
-**Type**: `Aggro`
+**Type**: `Midrange`
 
 **Description**: TODO.
 
@@ -20,4 +20,4 @@
 
 
 
-*Last updated: 2021-06-14, 19:18:42.*
+*Last updated: 2021-06-14, 19:41:45.*
