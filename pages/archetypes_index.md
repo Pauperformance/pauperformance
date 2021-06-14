@@ -13,20 +13,28 @@ Every archetype in the list is linked to its dedicated page, where you will find
 [Aristocrats](../archetypes/Aristocrats.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> | Aggro           |
 [Black Burn](../archetypes/Black%20Burn.md) | <img src="../resources/images/mana/B.png" width="25"/> | Aggro           |
 [Bogles](../archetypes/Bogles.md) | <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Aggro           |
+[Boros Bully](../archetypes/Boros%20Bully.md) | <img src="../resources/images/mana/R.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Midrange, Combo |
+[Boros Monarch](../archetypes/Boros%20Monarch.md) | <img src="../resources/images/mana/R.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Midrange        |
 [Burn](../archetypes/Burn.md) | <img src="../resources/images/mana/R.png" width="25"/> | Aggro           |
+[Canadian Threshold](../archetypes/Canadian%20Threshold.md) | <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> <img src="../resources/images/mana/U.png" width="25"/> | Midrange        |
+[Chatterstorm](../archetypes/Chatterstorm.md) | <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Combo           |
 [Dimir Alchemy](../archetypes/Dimir%20Alchemy.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/B.png" width="25"/> | Control         |
 [Dimir Delver](../archetypes/Dimir%20Delver.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/B.png" width="25"/> | Tempo           |
 [Dimir Faeries](../archetypes/Dimir%20Faeries.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/B.png" width="25"/> | Tempo           |
 [Elves](../archetypes/Elves.md) | <img src="../resources/images/mana/G.png" width="25"/> | Aggro, Combo    |
+[Familiar](../archetypes/Familiar.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Control, Combo  |
 [Fireball Tron](../archetypes/Fireball%20Tron.md) | <img src="../resources/images/mana/R.png" width="25"/> | Midrange        |
 [Goblins](../archetypes/Goblins.md) | <img src="../resources/images/mana/R.png" width="25"/> | Aggro           |
 [Golgari TortEx](../archetypes/Golgari%20TortEx.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> | Midrange        |
 [Gruul Aggro](../archetypes/Gruul%20Aggro.md) | <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Aggro           |
 [Infect](../archetypes/Infect.md) | <img src="../resources/images/mana/G.png" width="25"/> | Aggro           |
+[Inside Out Combo](../archetypes/Inside%20Out%20Combo.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Combo           |
 [Izzet Blitz](../archetypes/Izzet%20Blitz.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Aggro, Combo    |
 [Izzet Curve](../archetypes/Izzet%20Curve.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Midrange, Combo |
 [Izzet Delver](../archetypes/Izzet%20Delver.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Tempo           |
 [Izzet Faeries](../archetypes/Izzet%20Faeries.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Tempo           |
+[Jund Cascade](../archetypes/Jund%20Cascade.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Midrange        |
+[Jund PhD](../archetypes/Jund%20PhD.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Midrange        |
 [Midnight Gond](../archetypes/Midnight%20Gond.md) | <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Combo           |
 [Moggwarts](../archetypes/Moggwarts.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Combo           |
 [Mono Black Control](../archetypes/Mono%20Black%20Control.md) | <img src="../resources/images/mana/B.png" width="25"/> | Control         |
@@ -51,4 +59,4 @@ Every archetype in the list is linked to its dedicated page, where you will find
 
 
 
-*Last updated: 2021-06-14, 20:00:53.*
+*Last updated: 2021-06-14, 20:11:58.*

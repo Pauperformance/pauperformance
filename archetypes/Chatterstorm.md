@@ -1,10 +1,10 @@
-# Gruul Aggro
+# Chatterstorm
 
 **Aliases**: 
 
 **Dominant mana**: <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/>
 
-**Type**: `Aggro`
+**Type**: `Combo`
 
 **Description**: TODO.
 
@@ -20,4 +20,4 @@
 
 
 
-*Last updated: 2021-06-14, 20:12:08.*
+*Last updated: 2021-06-14, 20:12:09.*
