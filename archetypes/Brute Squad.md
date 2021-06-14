@@ -1,10 +1,10 @@
-# Familiar
+# Brute Squad
 
 **Aliases**: 
 
 **Dominant mana**: <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/>
 
-**Type**: `Control`, `Combo`
+**Type**: `Aggro`
 
 **Description**: TODO.
 
@@ -20,4 +20,4 @@
 
 
 
-*Last updated: 2021-06-14, 20:43:11.*
+*Last updated: 2021-06-14, 20:43:12.*

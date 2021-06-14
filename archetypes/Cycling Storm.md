@@ -1,8 +1,8 @@
-# Chatterstorm
+# Cycling Storm
 
 **Aliases**: 
 
-**Dominant mana**: <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/>
+**Dominant mana**: <img src="../resources/images/mana/B.png" width="25"/>
 
 **Type**: `Combo`
 

@@ -4,7 +4,7 @@
 
 **Dominant mana**: <img src="../resources/images/mana/G.png" width="25"/>
 
-**Type**: `Combo`
+**Type**: `Control`
 
 **Description**: TODO.
 
@@ -20,4 +20,4 @@
 
 
 
-*Last updated: 2021-06-14, 20:31:50.*
+*Last updated: 2021-06-14, 20:43:14.*
