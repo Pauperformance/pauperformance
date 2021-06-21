@@ -18,6 +18,7 @@
 
 ## **Decks**
 
+[Bogles 584.001.Jail0Breaker](https://deckstats.net/decks/181430/2119341-bogles-584-001-jail0breaker) | *2021-06-21, 23:03:27* |   
 
 
-*Last updated: 2021-06-21, 22:05:30.*
+*Last updated: 2021-06-21, 23:27:52.*

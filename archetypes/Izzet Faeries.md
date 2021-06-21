@@ -34,4 +34,4 @@
 [Izzet Faeries 676.002.MrEvilEye](https://deckstats.net/decks/72056/2119255-izzet-faeries-676-002) | *2021-06-21, 21:58:38* |   
 
 
-*Last updated: 2021-06-21, 22:06:19.*
+*Last updated: 2021-06-21, 23:28:56.*
