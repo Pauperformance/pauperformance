@@ -696,4 +696,4 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | 679       | afr           | Adventures in the Forgotten Realms              | 2021-07-23   |
 
 
-*Last updated: 2021-06-14, 20:31:40.*
+*Last updated: 2021-06-21, 18:18:21.*
