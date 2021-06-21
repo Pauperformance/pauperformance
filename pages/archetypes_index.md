@@ -37,7 +37,7 @@ Every archetype in the list is linked to its dedicated page, where you will find
 [Izzet Blitz](../archetypes/Izzet%20Blitz.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Aggro, Combo    |
 [Izzet Curve](../archetypes/Izzet%20Curve.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Midrange, Combo |
 [Izzet Delver](../archetypes/Izzet%20Delver.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Tempo           |
-[Izzet Faeries](../archetypes/Izzet%20Faeries.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Tempo           |
+[Izzet Faeries](../archetypes/Izzet%20Faeries.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Tempo           |
 [Jeskai Snow](../archetypes/Jeskai%20Snow.md) | <img src="../resources/images/mana/R.png" width="25"/> <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Midrange        |
 [Jund Cascade](../archetypes/Jund%20Cascade.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Midrange        |
 [Jund PhD](../archetypes/Jund%20PhD.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Midrange        |
@@ -65,4 +65,4 @@ Every archetype in the list is linked to its dedicated page, where you will find
 
 
 
-*Last updated: 2021-06-21, 21:45:22.*
+*Last updated: 2021-06-21, 22:04:21.*
