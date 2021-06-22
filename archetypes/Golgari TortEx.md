@@ -29,6 +29,7 @@
 
 [<img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/f/0/f03d4e0d-bddd-4835-91b8-11c2f15e54c3.jpg?1562048838" width="300"/>](https://scryfall.com/card/ori/170/caustic-caterpillar)
 [<img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/0/9/0900c3b6-cf56-4089-a1e3-c1f53edcf23a.jpg?1562896789" width="300"/>](https://scryfall.com/card/bbd/172/dragon-breath)
+[<img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/7/0/70180e04-1453-43dc-9bbb-ab0d6291a8b5.jpg?1601079424" width="300"/>](https://scryfall.com/card/jmp/394/faadiyah-seer)
 [<img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/6/2/62103ceb-b16d-48ea-af42-d3df88d1ee4c.jpg?1562918100" width="300"/>](https://scryfall.com/card/gvl/42/faerie-macabre)
 [<img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/4/0/4002b3a4-e00e-44ed-8989-d553e5d7d6c8.jpg?1608909755" width="300"/>](https://scryfall.com/card/cmr/128/fleshbag-marauder)
 [<img src="https://c1.scryfall.com/file/scryfall-cards/normal/front/b/b/bb1ef824-306c-4975-abca-19f0bd77449f.jpg?1547516861" width="300"/>](https://scryfall.com/card/uma/95/fume-spitter)
@@ -47,7 +48,8 @@
 ## **Decks**
 
 [Golgari TortEx 669.001.Shika93](https://deckstats.net/decks/78813/2103917-golgari-tortex-669-001) | *2021-06-10, 17:16:00* |   
+[Golgari TortEx 600.001.Shika93](https://deckstats.net/decks/78813/2120598-golgari-tortex-600-001) | *2021-06-22, 19:37:43* |   
 [Golgari TortEx 537.001.Shika93](https://deckstats.net/decks/78813/2118924-golgari-tortex-537-001) | *2021-06-21, 18:17:49* |   
 
 
-*Last updated: 2021-06-21, 23:29:24.*
+*Last updated: 2021-06-22, 20:21:52.*

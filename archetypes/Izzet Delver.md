@@ -18,6 +18,7 @@
 
 ## **Decks**
 
+[Izzet Delver 584.001.MTGPRO69](https://deckstats.net/decks/181430/2120535-izzet-delver-584-001-mtgpro69) | *2021-06-22, 19:06:49* |   
 
 
-*Last updated: 2021-06-21, 23:27:53.*
+*Last updated: 2021-06-22, 20:19:42.*

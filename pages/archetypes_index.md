@@ -26,7 +26,7 @@ Every archetype in the list is linked to its dedicated page, where you will find
 [Dimir Delver](../archetypes/Dimir%20Delver.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/B.png" width="25"/> | Tempo           |
 [Dimir Faeries](../archetypes/Dimir%20Faeries.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/B.png" width="25"/> | Tempo           |
 [Elves](../archetypes/Elves.md) | <img src="../resources/images/mana/G.png" width="25"/> | Aggro, Combo    |
-[Familiar](../archetypes/Familiar.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Control, Combo  |
+[Familiars](../archetypes/Familiars.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Control, Combo  |
 [Fireball Tron](../archetypes/Fireball%20Tron.md) | <img src="../resources/images/mana/R.png" width="25"/> | Midrange        |
 [Flicker Tron](../archetypes/Flicker%20Tron.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> <img src="../resources/images/mana/C.png" width="25"/> | Control         |
 [Goblins](../archetypes/Goblins.md) | <img src="../resources/images/mana/R.png" width="25"/> | Aggro           |
@@ -65,4 +65,4 @@ Every archetype in the list is linked to its dedicated page, where you will find
 
 
 
-*Last updated: 2021-06-21, 23:26:17.*
+*Last updated: 2021-06-22, 20:17:11.*

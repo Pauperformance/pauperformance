@@ -639,7 +639,7 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | **622**   | **iko**       | **Ikoria: Lair of Behemoths**                   | **2020-04-24** |
 | 623       | piko          | Ikoria: Lair of Behemoths Promos                | 2020-04-24   |
 | 624       | tiko          | Ikoria: Lair of Behemoths Tokens                | 2020-04-24   |
-| 625       | plgs          | Love Your LGS                                   | 2020-05-18   |
+| 625       | plg20         | Love Your LGS 2020                              | 2020-05-18   |
 | 626       | ha3           | Historic Anthology 3                            | 2020-05-21   |
 | 627       | slu           | Secret Lair: Ultimate Edition                   | 2020-05-29   |
 | 628       | fjmp          | Jumpstart Front Cards                           | 2020-06-18   |
@@ -693,7 +693,8 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | **676**   | **mh2**       | **Modern Horizons 2**                           | **2021-06-18** |
 | 677       | pwp21         | Wizards Play Network 2021                       | 2021-06-18   |
 | 678       | tmh2          | Modern Horizons 2 Tokens                        | 2021-06-18   |
-| 679       | afr           | Adventures in the Forgotten Realms              | 2021-07-23   |
+| 679       | plg21         | Love Your LGS 2021                              | 2021-06-22   |
+| 680       | afr           | Adventures in the Forgotten Realms              | 2021-07-23   |
 
 
-*Last updated: 2021-06-21, 23:26:21.*
+*Last updated: 2021-06-22, 20:17:14.*
