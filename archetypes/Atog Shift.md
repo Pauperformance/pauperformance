@@ -21,4 +21,4 @@
 [Atog Shift 612.001.Matteo Mazzola](https://deckstats.net/decks/181430/2120618-atog-shift-612-001-matteo-mazz) | *2021-06-22, 19:47:20* |   
 
 
-*Last updated: 2021-06-22, 20:22:44.*
+*Last updated: 2021-06-24, 22:55:22.*

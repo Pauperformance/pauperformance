@@ -21,4 +21,4 @@
 [MonoU Delver 540.001.Shika93](https://deckstats.net/decks/78813/2118921-monou-delver-540-001) | *2021-06-21, 18:15:54* |   
 
 
-*Last updated: 2021-06-22, 20:20:22.*
+*Last updated: 2021-06-24, 22:55:31.*

@@ -38,4 +38,4 @@
 [Stompy 537.001.Shika93](https://deckstats.net/decks/78813/2118919-stompy-537-001) | *2021-06-21, 18:14:19* |   
 
 
-*Last updated: 2021-06-22, 20:20:24.*
+*Last updated: 2021-06-24, 22:55:32.*

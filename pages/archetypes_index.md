@@ -65,4 +65,4 @@ Every archetype in the list is linked to its dedicated page, where you will find
 
 
 
-*Last updated: 2021-06-22, 20:17:11.*
+*Last updated: 2021-06-24, 22:55:15.*

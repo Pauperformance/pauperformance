@@ -21,4 +21,4 @@
 [Turbo Slivers 600.001.gannoncd](https://deckstats.net/decks/181430/2102506-turbo-slivers-600-001-gannoncd) | *2021-06-09, 15:34:28* |   
 
 
-*Last updated: 2021-06-22, 20:17:52.*
+*Last updated: 2021-06-24, 22:55:32.*

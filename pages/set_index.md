@@ -18,8 +18,8 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | **1**     | **lea**       | **Limited Edition Alpha**                       | **1993-08-05** |
 | **2**     | **leb**       | **Limited Edition Beta**                        | **1993-10-04** |
 | 3         | 2ed           | Unlimited Edition                               | 1993-12-01   |
-| 4         | ced           | Collectorsâ€™ Edition                             | 1993-12-10   |
-| 5         | cei           | Intl. Collectorsâ€™ Edition                       | 1993-12-10   |
+| 4         | ced           | Collectors’ Edition                             | 1993-12-10   |
+| 5         | cei           | Intl. Collectors’ Edition                       | 1993-12-10   |
 | **6**     | **arn**       | **Arabian Nights**                              | **1993-12-17** |
 | **7**     | **atq**       | **Antiquities**                                 | **1994-03-04** |
 | 8         | 3ed           | Revised Edition                                 | 1994-04-01   |
@@ -694,7 +694,9 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | 677       | pwp21         | Wizards Play Network 2021                       | 2021-06-18   |
 | 678       | tmh2          | Modern Horizons 2 Tokens                        | 2021-06-18   |
 | 679       | plg21         | Love Your LGS 2021                              | 2021-06-22   |
-| 680       | afr           | Adventures in the Forgotten Realms              | 2021-07-23   |
+| 680       | aafr          | Adventures in the Forgotten Realms Art Series   | 2021-07-23   |
+| 681       | afr           | Adventures in the Forgotten Realms              | 2021-07-23   |
+| 682       | tafr          | Adventures in the Forgotten Realms Tokens       | 2021-07-23   |
 
 
-*Last updated: 2021-06-22, 20:17:14.*
+*Last updated: 2021-06-24, 22:55:18.*
