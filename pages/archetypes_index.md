@@ -31,6 +31,7 @@ Every archetype in the list is linked to its dedicated page, where you will find
 [Elves](../archetypes/Elves.md) | <img src="../resources/images/mana/G.png" width="25"/> | Aggro, Combo    |
 [Familiars](../archetypes/Familiars.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Control, Combo  |
 [Fireball Tron](../archetypes/Fireball%20Tron.md) | <img src="../resources/images/mana/R.png" width="25"/> | Midrange        |
+[Fishelbrand](../archetypes/Fishelbrand.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/B.png" width="25"/> | Combo           |
 [Flicker Tron](../archetypes/Flicker%20Tron.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> <img src="../resources/images/mana/C.png" width="25"/> | Control         |
 [Goblins](../archetypes/Goblins.md) | <img src="../resources/images/mana/R.png" width="25"/> | Aggro           |
 [Golgari TortEx](../archetypes/Golgari%20TortEx.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> | Midrange        |
@@ -58,6 +59,7 @@ Every archetype in the list is linked to its dedicated page, where you will find
 [Rakdos Reanimator](../archetypes/Rakdos%20Reanimator.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Aggro, Combo    |
 [Rakdos TortEx](../archetypes/Rakdos%20TortEx.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Midrange        |
 [Red Deck Wins](../archetypes/Red%20Deck%20Wins.md) | <img src="../resources/images/mana/R.png" width="25"/> | Aggro           |
+[Soul Sisters](../archetypes/Soul%20Sisters.md) | <img src="../resources/images/mana/G.png" width="25"/> | Aggro, Combo    |
 [Stompy](../archetypes/Stompy.md) | <img src="../resources/images/mana/G.png" width="25"/> | Aggro           |
 [Turbo Slivers](../archetypes/Turbo%20Slivers.md) | <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Aggro, Combo    |
 [Turbofog](../archetypes/Turbofog.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> | Control         |
@@ -67,4 +69,4 @@ Every archetype in the list is linked to its dedicated page, where you will find
 
 
 
-*Last updated: 2021-06-25, 22:52:38.*
+*Last updated: 2021-06-26, 00:33:44.*

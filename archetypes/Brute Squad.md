@@ -18,6 +18,7 @@
 
 ## **Decks**
 
+[Brute Squad 658.001.Luiz0211](https://deckstats.net/decks/181430/2125025-brute-squad-658-001-luiz0211) | *2021-06-26, 00:01:43* |   
 
 
-*Last updated: 2021-06-25, 22:52:59.*
+*Last updated: 2021-06-26, 00:34:26.*
