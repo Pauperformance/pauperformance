@@ -1,4 +1,4 @@
-# Inside Out Combo
+# Inside Out
 
 **Aliases**: `Tireless Tribe Combo`
 
@@ -39,9 +39,9 @@
 
 ## **Decks**
 
-[Inside Out Combo 600.001.A_AdeptoTerra](https://deckstats.net/decks/181430/2120604-inside-out-combo-600-001-a-ade) | *2021-06-22, 19:40:13* |   
-[Inside Out Combo 584.001.Entropy263](https://deckstats.net/decks/181430/2120550-inside-out-combo-584-001-entro) | *2021-06-22, 19:13:44* |   
-[Inside Out Combo 540.001.Shika93](https://deckstats.net/decks/78813/2108319-inside-out-combo-540-001) | *2021-06-13, 22:52:07* |   
+[Inside Out 600.001.A_AdeptoTerra](https://deckstats.net/decks/181430/2120604-inside-out-600-001-a-adeptoter) | *2021-06-22, 19:40:13* |   
+[Inside Out 584.001.Entropy263](https://deckstats.net/decks/181430/2120550-inside-out-584-001-entropy263) | *2021-06-22, 19:13:44* |   
+[Inside Out 540.001.Shika93](https://deckstats.net/decks/78813/2108319-inside-out-540-001) | *2021-06-13, 22:52:07* |   
 
 
-*Last updated: 2021-06-26, 00:34:33.*
+*Last updated: 2021-06-26, 00:42:21.*

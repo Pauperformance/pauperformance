@@ -1,4 +1,4 @@
-# Walls Combo
+# Walls
 
 **Aliases**: `Wonderwalls`
 
@@ -20,4 +20,4 @@
 
 
 
-*Last updated: 2021-06-26, 00:34:32.*
+*Last updated: 2021-06-26, 00:42:29.*

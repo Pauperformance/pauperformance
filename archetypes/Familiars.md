@@ -43,4 +43,4 @@
 [Familiars 584.003.420Dragon](https://deckstats.net/decks/181430/2120570-familiars-584-003-420dragon) | *2021-06-22, 19:21:58* |   
 
 
-*Last updated: 2021-06-26, 00:34:05.*
+*Last updated: 2021-06-26, 00:42:20.*

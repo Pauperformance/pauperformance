@@ -699,4 +699,4 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | 682       | tafr          | Adventures in the Forgotten Realms Tokens       | 2021-07-23   |
 
 
-*Last updated: 2021-06-26, 00:33:47.*
+*Last updated: 2021-06-26, 00:42:11.*

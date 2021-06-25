@@ -37,7 +37,7 @@ Every archetype in the list is linked to its dedicated page, where you will find
 [Golgari TortEx](../archetypes/Golgari%20TortEx.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> | Midrange        |
 [Gruul Aggro](../archetypes/Gruul%20Aggro.md) | <img src="../resources/images/mana/R.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> | Aggro           |
 [Infect](../archetypes/Infect.md) | <img src="../resources/images/mana/G.png" width="25"/> | Aggro           |
-[Inside Out Combo](../archetypes/Inside%20Out%20Combo.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Combo           |
+[Inside Out](../archetypes/Inside%20Out.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Combo           |
 [Izzet Blitz](../archetypes/Izzet%20Blitz.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Aggro, Combo    |
 [Izzet Curve](../archetypes/Izzet%20Curve.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Midrange, Combo |
 [Izzet Faeries](../archetypes/Izzet%20Faeries.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Tempo           |
@@ -63,10 +63,10 @@ Every archetype in the list is linked to its dedicated page, where you will find
 [Stompy](../archetypes/Stompy.md) | <img src="../resources/images/mana/G.png" width="25"/> | Aggro           |
 [Turbo Slivers](../archetypes/Turbo%20Slivers.md) | <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Aggro, Combo    |
 [Turbofog](../archetypes/Turbofog.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> | Control         |
-[Walls Combo](../archetypes/Walls%20Combo.md) | <img src="../resources/images/mana/G.png" width="25"/> | Combo           |
+[Walls](../archetypes/Walls.md) | <img src="../resources/images/mana/G.png" width="25"/> | Combo           |
 [Watch Rites](../archetypes/Watch%20Rites.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> | Combo           |
 [White Weenie](../archetypes/White%20Weenie.md) | <img src="../resources/images/mana/W.png" width="25"/> | Aggro           |
 
 
 
-*Last updated: 2021-06-26, 00:33:44.*
+*Last updated: 2021-06-26, 00:42:08.*

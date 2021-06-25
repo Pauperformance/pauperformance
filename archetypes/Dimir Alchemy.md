@@ -21,4 +21,4 @@
 [Dimir Alchemy 560.001.Simone Capuzzi](https://deckstats.net/decks/181430/2124867-dimir-alchemy-560-001-simone-c) | *2021-06-25, 22:08:15* |   
 
 
-*Last updated: 2021-06-26, 00:33:49.*
+*Last updated: 2021-06-26, 00:42:13.*
