@@ -274,13 +274,13 @@ Table of Contents
 [Bird Maiden](https://scryfall.com/card/arn/37/bird-maiden?utm_source=api)  
 [Camel](https://scryfall.com/card/arn/3/camel?utm_source=api)  
 [Cuombajj Witches](https://scryfall.com/card/arn/23/cuombajj-witches?utm_source=api)  
-[Dandân](https://scryfall.com/card/arn/12/dand%C3%A2n?utm_source=api)  
+[DandÃ¢n](https://scryfall.com/card/arn/12/dand%C3%A2n?utm_source=api)  
 [Desert](https://scryfall.com/card/arn/72/desert?utm_source=api)  
 [Desert Nomads](https://scryfall.com/card/arn/38/desert-nomads?utm_source=api)  
 [Erg Raiders](https://scryfall.com/card/arn/25/erg-raiders?utm_source=api)  
 [Fishliver Oil](https://scryfall.com/card/arn/13/fishliver-oil?utm_source=api)  
 [Flying Men](https://scryfall.com/card/arn/14/flying-men?utm_source=api)  
-[Ghazbán Ogre](https://scryfall.com/card/arn/49/ghazb%C3%A1n-ogre?utm_source=api)  
+[GhazbÃ¡n Ogre](https://scryfall.com/card/arn/49/ghazb%C3%A1n-ogre?utm_source=api)  
 [Giant Tortoise](https://scryfall.com/card/arn/15/giant-tortoise?utm_source=api)  
 [Hasran Ogress](https://scryfall.com/card/arn/27/hasran-ogress?utm_source=api)  
 [Hurr Jackal](https://scryfall.com/card/arn/39/hurr-jackal?utm_source=api)  
@@ -610,8 +610,8 @@ Table of Contents
 [Krovikan Fetish](https://scryfall.com/card/ice/140/krovikan-fetish?utm_source=api)  
 [Krovikan Sorcerer](https://scryfall.com/card/ice/81/krovikan-sorcerer?utm_source=api)  
 [Lava Burst](https://scryfall.com/card/ice/198/lava-burst?utm_source=api)  
-[Legions of Lim-Dûl](https://scryfall.com/card/ice/142/legions-of-lim-d%C3%BBl?utm_source=api)  
-[Lim-Dûl's Cohort](https://scryfall.com/card/ice/145/lim-d%C3%BBls-cohort?utm_source=api)  
+[Legions of Lim-DÃ»l](https://scryfall.com/card/ice/142/legions-of-lim-d%C3%BBl?utm_source=api)  
+[Lim-DÃ»l's Cohort](https://scryfall.com/card/ice/145/lim-d%C3%BBls-cohort?utm_source=api)  
 [Meteor Shower](https://scryfall.com/card/ice/202/meteor-shower?utm_source=api)  
 [Mind Ravel](https://scryfall.com/card/ice/147/mind-ravel?utm_source=api)  
 [Mistfolk](https://scryfall.com/card/ice/84/mistfolk?utm_source=api)  
@@ -766,7 +766,7 @@ Table of Contents
 [Kjeldoran Escort](https://scryfall.com/card/all/7a/kjeldoran-escort?utm_source=api)  
 [Kjeldoran Pride](https://scryfall.com/card/all/9a/kjeldoran-pride?utm_source=api)  
 [Lat-Nam's Legacy](https://scryfall.com/card/all/30a/lat-nams-legacy?utm_source=api)  
-[Lim-Dûl's High Guard](https://scryfall.com/card/all/55a/lim-d%C3%BBls-high-guard?utm_source=api)  
+[Lim-DÃ»l's High Guard](https://scryfall.com/card/all/55a/lim-d%C3%BBls-high-guard?utm_source=api)  
 [Martyrdom](https://scryfall.com/card/all/10a/martyrdom?utm_source=api)  
 [Noble Steeds](https://scryfall.com/card/all/11a/noble-steeds?utm_source=api)  
 [Phantasmal Fiend](https://scryfall.com/card/all/57a/phantasmal-fiend?utm_source=api)  
@@ -993,7 +993,7 @@ Table of Contents
 [Coral Eel](https://scryfall.com/card/por/49/coral-eel?utm_source=api)  
 [Craven Giant](https://scryfall.com/card/por/121/craven-giant?utm_source=api)  
 [Craven Knight](https://scryfall.com/card/por/85/craven-knight?utm_source=api)  
-[Déjà Vu](https://scryfall.com/card/por/53/d%C3%A9j%C3%A0-vu?utm_source=api)  
+[DÃ©jÃ  Vu](https://scryfall.com/card/por/53/d%C3%A9j%C3%A0-vu?utm_source=api)  
 [Devoted Hero](https://scryfall.com/card/por/13/devoted-hero?utm_source=api)  
 [Elite Cat Warrior](https://scryfall.com/card/por/163/elite-cat-warrior?utm_source=api)  
 [False Peace](https://scryfall.com/card/por/14/false-peace?utm_source=api)  
@@ -9328,4 +9328,4 @@ Table of Contents
 
 
 
-*Last updated: 2021-06-24, 22:55:18.*
+*Last updated: 2021-06-25, 22:52:40.*

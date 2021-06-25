@@ -1,6 +1,6 @@
 # Boros Bully
 
-**Aliases**: 
+**Aliases**: `RW Bully`
 
 **Dominant mana**: <img src="../resources/images/mana/R.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/>
 
@@ -21,4 +21,4 @@
 [Boros Bully 576.001.deluxeicoff](https://deckstats.net/decks/181430/2119095-boros-bully-576-001-deluxeicof) | *2021-06-21, 20:18:08* |   
 
 
-*Last updated: 2021-06-24, 22:55:23.*
+*Last updated: 2021-06-25, 22:53:06.*

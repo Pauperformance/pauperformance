@@ -1,6 +1,6 @@
 # Orzhov Pestilence
 
-**Aliases**: 
+**Aliases**: `BW Pestilence`
 
 **Dominant mana**: <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/>
 
@@ -21,4 +21,4 @@
 [Orzhov Pestilence 584.001.Shika93](https://deckstats.net/decks/78813/2120551-orzhov-pestilence-584-001) | *2021-06-22, 19:14:24* |   
 
 
-*Last updated: 2021-06-24, 22:55:31.*
+*Last updated: 2021-06-25, 22:53:05.*

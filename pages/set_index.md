@@ -18,8 +18,8 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | **1**     | **lea**       | **Limited Edition Alpha**                       | **1993-08-05** |
 | **2**     | **leb**       | **Limited Edition Beta**                        | **1993-10-04** |
 | 3         | 2ed           | Unlimited Edition                               | 1993-12-01   |
-| 4         | ced           | Collectors’ Edition                             | 1993-12-10   |
-| 5         | cei           | Intl. Collectors’ Edition                       | 1993-12-10   |
+| 4         | ced           | Collectorsâ€™ Edition                             | 1993-12-10   |
+| 5         | cei           | Intl. Collectorsâ€™ Edition                       | 1993-12-10   |
 | **6**     | **arn**       | **Arabian Nights**                              | **1993-12-17** |
 | **7**     | **atq**       | **Antiquities**                                 | **1994-03-04** |
 | 8         | 3ed           | Revised Edition                                 | 1994-04-01   |
@@ -699,4 +699,4 @@ Lines in **bold** correspond to sets that have introduced new cards in the [Paup
 | 682       | tafr          | Adventures in the Forgotten Realms Tokens       | 2021-07-23   |
 
 
-*Last updated: 2021-06-24, 22:55:18.*
+*Last updated: 2021-06-25, 22:52:40.*

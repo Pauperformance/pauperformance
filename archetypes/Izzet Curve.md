@@ -1,6 +1,6 @@
 # Izzet Curve
 
-**Aliases**: `Serpentine Curve`
+**Aliases**: `UR Curve`, `Serpentine Curve`
 
 **Dominant mana**: <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/>
 
@@ -20,4 +20,4 @@
 
 
 
-*Last updated: 2021-06-24, 22:55:28.*
+*Last updated: 2021-06-25, 22:52:43.*

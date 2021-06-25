@@ -1,6 +1,6 @@
 # Rakdos Control
 
-**Aliases**: 
+**Aliases**: `BR Control`
 
 **Dominant mana**: <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/>
 
@@ -21,4 +21,4 @@
 [Rakdos Control 540.001.Bruno dos Santos Silva](https://deckstats.net/decks/181430/2108327-rakdos-control-540-001-bruno-d) | *2021-06-13, 22:57:44* |   
 
 
-*Last updated: 2021-06-24, 22:55:32.*
+*Last updated: 2021-06-25, 22:52:53.*

@@ -1,6 +1,6 @@
 # Dimir Faeries
 
-**Aliases**: 
+**Aliases**: `UB Faeries`
 
 **Dominant mana**: <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/B.png" width="25"/>
 
@@ -21,4 +21,4 @@
 [Dimir Faeries 669.001.MrEvilEye](https://deckstats.net/decks/72056/2119217-dimir-faeries-669-001) | *2021-06-21, 21:31:45* |   
 
 
-*Last updated: 2021-06-24, 22:55:24.*
+*Last updated: 2021-06-25, 22:52:46.*

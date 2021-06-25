@@ -1,6 +1,6 @@
 # Izzet Blitz
 
-**Aliases**: 
+**Aliases**: `UR Blitz`
 
 **Dominant mana**: <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/>
 
@@ -21,4 +21,4 @@
 [Izzet Blitz 584.001.Amoras27](https://deckstats.net/decks/181430/2120546-izzet-blitz-584-001-amoras27) | *2021-06-22, 19:12:27* |   
 
 
-*Last updated: 2021-06-24, 22:55:28.*
+*Last updated: 2021-06-25, 22:52:48.*

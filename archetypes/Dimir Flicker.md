@@ -1,6 +1,6 @@
 # Dimir Flicker
 
-**Aliases**: 
+**Aliases**: `UB Flicker`
 
 **Dominant mana**: <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/B.png" width="25"/>
 
@@ -20,4 +20,4 @@
 
 
 
-*Last updated: 2021-06-22, 20:55:35.*
+*Last updated: 2021-06-25, 22:53:06.*

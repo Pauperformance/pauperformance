@@ -2,7 +2,7 @@
 
 **Aliases**: 
 
-**Dominant mana**: <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> <img src="../resources/images/mana/C.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/>
+**Dominant mana**: <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/C.png" width="25"/>
 
 **Type**: `Aggro`, `Combo`
 
@@ -46,4 +46,4 @@
 [Affinity 501.001.Shika93](https://deckstats.net/decks/78813/2119103-affinity-501-001) | *2021-06-21, 20:22:19* |   
 
 
-*Last updated: 2021-06-24, 22:55:21.*
+*Last updated: 2021-06-25, 22:52:58.*

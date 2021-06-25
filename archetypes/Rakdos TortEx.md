@@ -1,6 +1,6 @@
 # Rakdos TortEx
 
-**Aliases**: 
+**Aliases**: `BR TortEx`
 
 **Dominant mana**: <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/>
 
@@ -21,4 +21,4 @@
 [Rakdos TortEx 518.001.Fran Blanco](https://deckstats.net/decks/181430/2108200-rakdos-tortex-518-001-fran-bla) | *2021-06-13, 21:15:32* |   
 
 
-*Last updated: 2021-06-24, 22:55:32.*
+*Last updated: 2021-06-25, 22:53:07.*

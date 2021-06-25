@@ -52,4 +52,4 @@
 [Golgari TortEx 537.001.Shika93](https://deckstats.net/decks/78813/2118924-golgari-tortex-537-001) | *2021-06-21, 18:17:49* |   
 
 
-*Last updated: 2021-06-24, 22:55:27.*
+*Last updated: 2021-06-25, 22:53:04.*

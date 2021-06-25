@@ -1,6 +1,6 @@
 # Izzet Faeries
 
-**Aliases**: 
+**Aliases**: `UR Faeries`, `Izzet Skred`
 
 **Dominant mana**: <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/>
 
@@ -42,4 +42,4 @@
 [Izzet Faeries 584.001.Mengucci](https://deckstats.net/decks/181430/2120539-izzet-faeries-584-001-mengucci) | *2021-06-22, 19:08:06* |   
 
 
-*Last updated: 2021-06-24, 22:55:29.*
+*Last updated: 2021-06-25, 22:53:00.*
