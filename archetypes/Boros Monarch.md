@@ -21,4 +21,4 @@
 [Boros Monarch 560.001.Thraben27](https://deckstats.net/decks/181430/2119099-boros-monarch-560-001-thraben2) | *2021-06-21, 20:19:23* |   
 
 
-*Last updated: 2021-06-26, 10:57:06.*
+*Last updated: 2021-06-26, 11:02:01.*
