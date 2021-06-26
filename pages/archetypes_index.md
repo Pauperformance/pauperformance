@@ -57,7 +57,7 @@ Every archetype in the list is linked to its dedicated page, where you will find
 [MonoU Faeries](../archetypes/MonoU%20Faeries.md) | <img src="../resources/images/mana/U.png" width="25"/> | Tempo           |
 [MonoW Heroic](../archetypes/MonoW%20Heroic.md) | <img src="../resources/images/mana/W.png" width="25"/> | Aggro           |
 [Orzhov Pestilence](../archetypes/Orzhov%20Pestilence.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Control         |
-[Petals Festival](../archetypes/Petals%20Festival.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> | Combo           |
+[Petal Festival](../archetypes/Petal%20Festival.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> | Combo           |
 [Rakdos Control](../archetypes/Rakdos%20Control.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Control         |
 [Rakdos Madness](../archetypes/Rakdos%20Madness.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Midrange        |
 [Rakdos Reanimator](../archetypes/Rakdos%20Reanimator.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Aggro, Combo    |
@@ -74,4 +74,4 @@ Every archetype in the list is linked to its dedicated page, where you will find
 
 
 
-*Last updated: 2021-06-26, 11:01:26.*
+*Last updated: 2021-06-26, 11:11:57.*

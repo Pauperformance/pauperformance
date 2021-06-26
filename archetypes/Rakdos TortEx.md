@@ -21,4 +21,4 @@
 [Rakdos TortEx 518.001.Fran Blanco](https://deckstats.net/decks/181430/2108200-rakdos-tortex-518-001-fran-bla) | *2021-06-13, 21:15:32* |   
 
 
-*Last updated: 2021-06-26, 11:01:58.*
+*Last updated: 2021-06-26, 11:12:33.*
