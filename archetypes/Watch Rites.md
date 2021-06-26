@@ -36,4 +36,4 @@
 [Watch Rites 488.001.eternalgathering](https://deckstats.net/decks/181430/2124840-watch-rites-488-001-eternalgat) | *2021-06-25, 21:47:19* |   
 
 
-*Last updated: 2021-06-26, 11:12:20.*
+*Last updated: 2021-06-26, 11:15:59.*
