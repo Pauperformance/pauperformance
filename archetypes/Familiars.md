@@ -49,4 +49,4 @@
 [Familiars 533.001.A_AdeptoTerra](https://deckstats.net/decks/181430/2125528-familiars-533-001-a-adeptoterr) | *2021-06-26, 10:55:29* |   
 
 
-*Last updated: 2021-06-26, 11:15:49.*
+*Last updated: 2021-06-26, 11:51:59.*

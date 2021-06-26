@@ -46,4 +46,4 @@
 [Affinity Monsters 590.001.Shika93](https://deckstats.net/decks/78813/2120613-affinity-monsters-590-001) | *2021-06-22, 19:44:48* |   
 
 
-*Last updated: 2021-06-26, 11:15:34.*
+*Last updated: 2021-06-26, 11:51:47.*
