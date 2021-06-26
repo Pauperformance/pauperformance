@@ -4,7 +4,7 @@
 
 **Dominant mana**: <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/>
 
-**Type**: `Midrange`, `Combo`
+**Type**: `Midrange`
 
 **Description**: TODO.
 
@@ -40,8 +40,8 @@
 
 ## **Decks**
 
-[Acid Trip 576.001.anynewprovince](https://deckstats.net/decks/181430/2125491-acid-trip-576-001-anynewprovin) | *2021-06-26, 10:08:05* | This is a deck for a series called Possibly Pauper Playable:  
+[Acid Trip 576.001.anynewprovince](https://deckstats.net/decks/181430/2125491-acid-trip-576-001-anynewprovin) | *2021-06-26, 10:08:05* |   
 [Acid Trip 576.001.AzoriusFlavoredGamerGirlPee](https://deckstats.net/decks/181430/2125506-acid-trip-576-001-azoriusflavo) | *2021-06-26, 10:27:46* |   
 
 
-*Last updated: 2021-06-26, 10:31:50.*
+*Last updated: 2021-06-26, 10:39:26.*

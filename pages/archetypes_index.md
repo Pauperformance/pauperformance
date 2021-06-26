@@ -9,7 +9,7 @@ Every archetype in the list is linked to its dedicated page, where you will find
 
 | Name                   | Dominant mana | Type            |
 | -----------------------| ------------- | --------------- |
-[Acid Trip](../archetypes/Acid%20Trip.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Midrange, Combo |
+[Acid Trip](../archetypes/Acid%20Trip.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Midrange        |
 [Affinity](../archetypes/Affinity.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/C.png" width="25"/> | Aggro, Combo    |
 [Affinity Monsters](../archetypes/Affinity%20Monsters.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> <img src="../resources/images/mana/C.png" width="25"/> | Midrange, Combo |
 [Aristocrats](../archetypes/Aristocrats.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> | Aggro           |
@@ -73,4 +73,4 @@ Every archetype in the list is linked to its dedicated page, where you will find
 
 
 
-*Last updated: 2021-06-26, 10:31:16.*
+*Last updated: 2021-06-26, 10:39:00.*
