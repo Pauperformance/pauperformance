@@ -30,6 +30,7 @@ Every archetype in the list is linked to its dedicated page, where you will find
 [Dimir Flicker](../archetypes/Dimir%20Flicker.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/B.png" width="25"/> | Control         |
 [Dimir Reanimator](../archetypes/Dimir%20Reanimator.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/B.png" width="25"/> | Midrange, Combo |
 [Dimir Teachings](../archetypes/Dimir%20Teachings.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/B.png" width="25"/> | Control         |
+[Eggs](../archetypes/Eggs.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> <img src="../resources/images/mana/C.png" width="25"/> | Combo           |
 [Elves](../archetypes/Elves.md) | <img src="../resources/images/mana/G.png" width="25"/> | Aggro, Combo    |
 [Familiars](../archetypes/Familiars.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Control, Combo  |
 [Fireball Tron](../archetypes/Fireball%20Tron.md) | <img src="../resources/images/mana/R.png" width="25"/> | Midrange        |
@@ -73,4 +74,4 @@ Every archetype in the list is linked to its dedicated page, where you will find
 
 
 
-*Last updated: 2021-06-26, 10:39:00.*
+*Last updated: 2021-06-26, 10:50:04.*
