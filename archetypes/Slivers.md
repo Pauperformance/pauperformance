@@ -21,4 +21,4 @@
 [Slivers 600.001.HANSDAMPF](https://deckstats.net/decks/181430/2125455-slivers-600-001-hansdampf) | *2021-06-26, 09:20:45* |   
 
 
-*Last updated: 2021-06-26, 10:50:14.*
+*Last updated: 2021-06-26, 10:56:33.*

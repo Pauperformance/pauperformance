@@ -56,4 +56,4 @@
 [Dimir Teachings 454.001.Caiusthethief](https://deckstats.net/decks/181430/2124877-dimir-teachings-454-001-caiust) | *2021-06-25, 22:17:43* |   
 
 
-*Last updated: 2021-06-26, 10:50:29.*
+*Last updated: 2021-06-26, 10:56:51.*
