@@ -1,10 +1,10 @@
-# Dimir Flicker
+# Dimir Reanimator
 
-**Aliases**: `UB Flicker`
+**Aliases**: `UB Reanimator`
 
 **Dominant mana**: <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/B.png" width="25"/>
 
-**Type**: `Control`
+**Type**: `Midrange`, `Combo`
 
 **Description**: TODO.
 
@@ -20,4 +20,4 @@
 
 
 
-*Last updated: 2021-06-26, 10:32:02.*
+*Last updated: 2021-06-26, 10:31:31.*

@@ -21,4 +21,4 @@
 [Izzet Blitz 584.001.Amoras27](https://deckstats.net/decks/181430/2120546-izzet-blitz-584-001-amoras27) | *2021-06-22, 19:12:27* |   
 
 
-*Last updated: 2021-06-26, 00:42:17.*
+*Last updated: 2021-06-26, 10:31:30.*

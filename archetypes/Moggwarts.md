@@ -18,6 +18,7 @@
 
 ## **Decks**
 
+[Moggwarts 669.001.Milkk](https://deckstats.net/decks/181430/2125462-moggwarts-669-001-milkk) | *2021-06-26, 09:30:05* |   
 
 
-*Last updated: 2021-06-26, 00:42:15.*
+*Last updated: 2021-06-26, 10:31:27.*

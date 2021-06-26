@@ -9,6 +9,7 @@ Every archetype in the list is linked to its dedicated page, where you will find
 
 | Name                   | Dominant mana | Type            |
 | -----------------------| ------------- | --------------- |
+[Acid Trip](../archetypes/Acid%20Trip.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Midrange, Combo |
 [Affinity](../archetypes/Affinity.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/C.png" width="25"/> | Aggro, Combo    |
 [Affinity Monsters](../archetypes/Affinity%20Monsters.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> <img src="../resources/images/mana/C.png" width="25"/> | Midrange, Combo |
 [Aristocrats](../archetypes/Aristocrats.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> | Aggro           |
@@ -27,6 +28,7 @@ Every archetype in the list is linked to its dedicated page, where you will find
 [Dimir Delver](../archetypes/Dimir%20Delver.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/B.png" width="25"/> | Tempo           |
 [Dimir Faeries](../archetypes/Dimir%20Faeries.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/B.png" width="25"/> | Tempo           |
 [Dimir Flicker](../archetypes/Dimir%20Flicker.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/B.png" width="25"/> | Control         |
+[Dimir Reanimator](../archetypes/Dimir%20Reanimator.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/B.png" width="25"/> | Midrange, Combo |
 [Dimir Teachings](../archetypes/Dimir%20Teachings.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/B.png" width="25"/> | Control         |
 [Elves](../archetypes/Elves.md) | <img src="../resources/images/mana/G.png" width="25"/> | Aggro, Combo    |
 [Familiars](../archetypes/Familiars.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Control, Combo  |
@@ -48,6 +50,7 @@ Every archetype in the list is linked to its dedicated page, where you will find
 [Moggwarts](../archetypes/Moggwarts.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Combo           |
 [Mono Black Control](../archetypes/Mono%20Black%20Control.md) | <img src="../resources/images/mana/B.png" width="25"/> | Control         |
 [MonoB Ponza](../archetypes/MonoB%20Ponza.md) | <img src="../resources/images/mana/B.png" width="25"/> | Control         |
+[MonoB Suicide](../archetypes/MonoB%20Suicide.md) | <img src="../resources/images/mana/B.png" width="25"/> | Aggro           |
 [MonoG Ponza](../archetypes/MonoG%20Ponza.md) | <img src="../resources/images/mana/G.png" width="25"/> | Control         |
 [MonoG Tron](../archetypes/MonoG%20Tron.md) | <img src="../resources/images/mana/G.png" width="25"/> | Midrange        |
 [MonoU Faeries](../archetypes/MonoU%20Faeries.md) | <img src="../resources/images/mana/U.png" width="25"/> | Tempo           |
@@ -59,6 +62,7 @@ Every archetype in the list is linked to its dedicated page, where you will find
 [Rakdos Reanimator](../archetypes/Rakdos%20Reanimator.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Aggro, Combo    |
 [Rakdos TortEx](../archetypes/Rakdos%20TortEx.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Midrange        |
 [Red Deck Wins](../archetypes/Red%20Deck%20Wins.md) | <img src="../resources/images/mana/R.png" width="25"/> | Aggro           |
+[Slivers](../archetypes/Slivers.md) | <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Aggro           |
 [Soul Sisters](../archetypes/Soul%20Sisters.md) | <img src="../resources/images/mana/G.png" width="25"/> | Aggro, Combo    |
 [Stompy](../archetypes/Stompy.md) | <img src="../resources/images/mana/G.png" width="25"/> | Aggro           |
 [Turbo Slivers](../archetypes/Turbo%20Slivers.md) | <img src="../resources/images/mana/G.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Aggro, Combo    |
@@ -69,4 +73,4 @@ Every archetype in the list is linked to its dedicated page, where you will find
 
 
 
-*Last updated: 2021-06-26, 00:42:08.*
+*Last updated: 2021-06-26, 10:31:16.*
