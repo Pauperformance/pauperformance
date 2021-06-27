@@ -56,6 +56,7 @@ Every archetype in the list is linked to its dedicated page, where you will find
 [MonoG Tron](../archetypes/MonoG%20Tron.md) | <img src="../resources/images/mana/G.png" width="25"/> | Midrange        |
 [MonoU Faeries](../archetypes/MonoU%20Faeries.md) | <img src="../resources/images/mana/U.png" width="25"/> | Tempo           |
 [MonoW Heroic](../archetypes/MonoW%20Heroic.md) | <img src="../resources/images/mana/W.png" width="25"/> | Aggro           |
+[One Land Spy](../archetypes/One%20Land%20Spy.md) | <img src="../resources/images/mana/B.png" width="25"/> | Combo           |
 [Orzhov Pestilence](../archetypes/Orzhov%20Pestilence.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/W.png" width="25"/> | Control         |
 [Petal Festival](../archetypes/Petal%20Festival.md) | <img src="../resources/images/mana/U.png" width="25"/> <img src="../resources/images/mana/G.png" width="25"/> | Combo           |
 [Rakdos Control](../archetypes/Rakdos%20Control.md) | <img src="../resources/images/mana/B.png" width="25"/> <img src="../resources/images/mana/R.png" width="25"/> | Control         |
@@ -74,4 +75,4 @@ Every archetype in the list is linked to its dedicated page, where you will find
 
 
 
-*Last updated: 2021-06-26, 11:51:40.*
+*Last updated: 2021-06-27, 10:47:55.*

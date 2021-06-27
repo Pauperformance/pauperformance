@@ -21,4 +21,4 @@
 [MonoU Faeries 540.001.Shika93](https://deckstats.net/decks/78813/2118921-monou-faeries-540-001) | *2021-06-21, 18:15:54* |   
 
 
-*Last updated: 2021-06-26, 11:51:55.*
+*Last updated: 2021-06-27, 10:48:08.*

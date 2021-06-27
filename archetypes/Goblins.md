@@ -21,4 +21,4 @@
 [Goblins 600.001.walterr25](https://deckstats.net/decks/181430/2120608-goblins-600-001-walterr25) | *2021-06-22, 19:41:57* |   
 
 
-*Last updated: 2021-06-26, 11:51:55.*
+*Last updated: 2021-06-27, 10:48:09.*
