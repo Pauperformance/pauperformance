@@ -18,6 +18,7 @@
 
 ## **Decks**
 
+[Jund Cascade 658.001.Milkk](https://deckstats.net/decks/181430/2127226-jund-cascade-658-001-milkk) | *2021-06-27, 19:43:12* |   
 
 
-*Last updated: 2021-06-27, 19:32:04.*
+*Last updated: 2021-06-27, 20:25:16.*

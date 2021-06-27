@@ -37,4 +37,4 @@
 [Black Burn 662.001.Grakon](https://deckstats.net/decks/181430/2126981-black-burn-662-001-grakon) | *2021-06-27, 16:31:42* | Pauper League 2020-05-13  
 
 
-*Last updated: 2021-06-27, 19:31:17.*
+*Last updated: 2021-06-27, 20:24:56.*

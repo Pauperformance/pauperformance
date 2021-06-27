@@ -42,4 +42,4 @@
 [Izzet Faeries 584.001.Mengucci](https://deckstats.net/decks/181430/2120539-izzet-faeries-584-001-mengucci) | *2021-06-22, 19:08:06* |   
 
 
-*Last updated: 2021-06-27, 19:31:35.*
+*Last updated: 2021-06-27, 20:25:04.*

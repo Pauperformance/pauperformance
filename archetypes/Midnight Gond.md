@@ -34,4 +34,4 @@
 [Midnight Gond 488.002.eternalgathering](https://deckstats.net/decks/181430/2124887-midnight-gond-488-002-eternalg) | *2021-06-25, 22:24:03* |   
 
 
-*Last updated: 2021-06-27, 19:31:14.*
+*Last updated: 2021-06-27, 20:24:53.*
