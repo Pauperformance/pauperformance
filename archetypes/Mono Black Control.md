@@ -45,4 +45,4 @@
 [Mono Black Control 537.001.Shika93](https://deckstats.net/decks/78813/2108334-mono-black-control-537-001) | *2021-06-13, 23:01:01* |   
 
 
-*Last updated: 2021-06-27, 10:48:44.*
+*Last updated: 2021-06-27, 19:31:36.*

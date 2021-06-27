@@ -21,4 +21,4 @@
 [MonoB Suicide 584.001.Lazoreoc](https://deckstats.net/decks/181430/2125458-monob-suicide-584-001-lazoreoc) | *2021-06-26, 09:26:47* |   
 
 
-*Last updated: 2021-06-27, 10:48:49.*
+*Last updated: 2021-06-27, 19:31:52.*
