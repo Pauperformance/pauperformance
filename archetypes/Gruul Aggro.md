@@ -21,4 +21,4 @@
 [Gruul Aggro 501.001.Shika93](https://deckstats.net/decks/78813/2118933-gruul-aggro-501-001) | *2021-06-21, 18:21:41* |   
 
 
-*Last updated: 2021-06-27, 20:24:47.*
+*Last updated: 2021-07-01, 10:16:41.*

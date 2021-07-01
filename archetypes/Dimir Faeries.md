@@ -40,4 +40,4 @@
 [Dimir Faeries 669.001.MrEvilEye](https://deckstats.net/decks/72056/2119217-dimir-faeries-669-001) | *2021-06-21, 21:31:45* |   
 
 
-*Last updated: 2021-06-27, 20:24:38.*
+*Last updated: 2021-07-01, 10:16:16.*

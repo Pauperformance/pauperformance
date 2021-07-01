@@ -39,4 +39,4 @@
 [Izzet Blitz 479.001.gabripo93](https://deckstats.net/decks/181430/2127243-izzet-blitz-479-001-gabripo93) | *2021-06-27, 19:51:25* |   
 
 
-*Last updated: 2021-06-27, 20:24:42.*
+*Last updated: 2021-07-01, 10:16:37.*

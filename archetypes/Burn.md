@@ -35,4 +35,4 @@
 [Burn 560.001.Shika93](https://deckstats.net/decks/78813/2118928-burn-560-001) | *2021-06-21, 18:19:19* |   
 
 
-*Last updated: 2021-06-27, 20:24:45.*
+*Last updated: 2021-07-01, 10:16:40.*

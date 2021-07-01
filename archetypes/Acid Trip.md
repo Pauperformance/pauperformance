@@ -44,4 +44,4 @@
 [Acid Trip 576.001.AzoriusFlavoredGamerGirlPee](https://deckstats.net/decks/181430/2125506-acid-trip-576-001-azoriusflavo) | *2021-06-26, 10:27:46* |   
 
 
-*Last updated: 2021-06-27, 20:25:07.*
+*Last updated: 2021-07-01, 10:17:00.*
